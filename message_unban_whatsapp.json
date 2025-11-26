@@ -1,176 +1,4 @@
 [
-{"subject":"Urgent Unban Request 1","message":"Hello WhatsApp Support, my number [###] was banned mistakenly. I respectfully request a review and immediate reinstatement of my account."},
-{"subject":"Urgent Unban Request 2","message":"Hello WhatsApp Team, the account [###] is important for personal and professional communication. Please review and lift the ban immediately."},
-{"subject":"Urgent Unban Request 3","message":"Dear WhatsApp Support, my number [###] has been banned. I assure you no policy was intentionally violated. Kindly reinstate my account."},
-{"subject":"Urgent Unban Request 4","message":"Hello, my WhatsApp number [###] was banned without reason. I request a swift review and unban to resume normal usage."},
-{"subject":"Urgent Unban Request 5","message":"Dear Team, my account [###] is essential for business and personal use. Please review the ban and reinstate my account promptly."},
-{"subject":"Urgent Unban Request 6","message":"Hello WhatsApp Support, I believe my number [###] was banned by mistake. Requesting immediate appeal and account restoration."},
-{"subject":"Urgent Unban Request 7","message":"Dear WhatsApp Team, number [###] is vital for daily communications. Please consider lifting the ban as soon as possible."},
-{"subject":"Urgent Unban Request 8","message":"Hello, my account [###] has been suspended without valid reason. I request urgent review and reinstatement."},
-{"subject":"Urgent Unban Request 9","message":"Dear Support, number [###] is banned mistakenly. Kindly perform a manual review and unban immediately."},
-{"subject":"Urgent Unban Request 10","message":"Hello WhatsApp, my account [###] is crucial for work and personal matters. I request a prompt review to restore access."},
-{"subject":"Urgent Unban Request 200","message":"Hello WhatsApp Support, my number [###] was banned accidentally. I respectfully request a prompt review and immediate unban."},
-{"subject":"Urgent Unban Request 201","message":"Hello WhatsApp Support, my number [###] was banned mistakenly. I request immediate review and reinstatement."},
-{"subject":"Urgent Unban Request 202","message":"Dear WhatsApp Team, account [###] is essential for daily personal and professional communications. Please lift the ban urgently."},
-{"subject":"Urgent Unban Request 203","message":"Hello, my number [###] was banned by error. I kindly request a swift review and unban of my account."},
-{"subject":"Urgent Unban Request 204","message":"Dear WhatsApp Support, account [###] is crucial for work and family communications. Requesting immediate reinstatement."},
-{"subject":"Urgent Unban Request 205","message":"Hello WhatsApp, my account [###] has been suspended without reason. Please review and restore access immediately."},
-{"subject":"Urgent Unban Request 206","message":"Dear Team, my number [###] was banned accidentally. Kindly perform a manual review and lift the ban promptly."},
-{"subject":"Urgent Unban Request 207","message":"Hello, account [###] is vital for professional communications. Requesting urgent unban and review."},
-{"subject":"Urgent Unban Request 208","message":"Dear WhatsApp Support, number [###] was mistakenly banned. I request immediate review and account restoration."},
-{"subject":"Urgent Unban Request 209","message":"Hello, my account [###] is important for work and personal life. Please review the ban and reinstate access."},
-{"subject":"Urgent Unban Request 210","message":"Dear WhatsApp Team, account [###] is essential for communication. I kindly request urgent review and unban."},
-{"subject":"Urgent Unban Request 400","message":"Hello WhatsApp Support, my number [###] was banned by mistake. Please review the account and restore access immediately."},
-{"subject":"Urgent Unban Request 401","message":"Hello WhatsApp Support, my number [###] was banned in error. I kindly request immediate review and reinstatement."},
-{"subject":"Urgent Unban Request 402","message":"Dear WhatsApp Team, account [###] is critical for professional and personal communication. Please lift the ban promptly."},
-{"subject":"Urgent Unban Request 403","message":"Hello, my number [###] has been suspended mistakenly. I request urgent review and restoration of access."},
-{"subject":"Urgent Unban Request 404","message":"Dear WhatsApp Support, account [###] is essential for work and family communication. Please review and unban as soon as possible."},
-{"subject":"Urgent Unban Request 405","message":"Hello WhatsApp, my account [###] was banned accidentally. Kindly perform a manual review and reinstate immediately."},
-{"subject":"Urgent Unban Request 406","message":"Dear Team, number [###] is crucial for daily communications. I respectfully request urgent reinstatement."},
-{"subject":"Urgent Unban Request 407","message":"Hello, my account [###] is important for professional matters. Please review and lift the ban without delay."},
-{"subject":"Urgent Unban Request 408","message":"Dear WhatsApp Support, number [###] was mistakenly suspended. I request immediate review and account restoration."},
-{"subject":"Urgent Unban Request 409","message":"Hello, my account [###] is vital for personal and work communication. Please review and unban as soon as possible."},
-{"subject":"Urgent Unban Request 410","message":"Dear WhatsApp Team, account [###] is essential for daily communication. I request urgent review and reinstatement."},
-{"subject":"Urgent Unban Request 600","message":"Hello WhatsApp Support, my number [###] was banned by mistake. Please review and restore access immediately."},
-{"subject":"Urgent Unban Request 601","message":"Hello WhatsApp Support, my number [###] was banned by mistake. I request immediate review and reinstatement."},
-{"subject":"Urgent Unban Request 602","message":"Dear WhatsApp Team, account [###] is vital for personal and professional communication. Please lift the ban urgently."},
-{"subject":"Urgent Unban Request 603","message":"Hello, my number [###] was suspended in error. I kindly request immediate review and unban."},
-{"subject":"Urgent Unban Request 604","message":"Dear WhatsApp Support, account [###] is critical for work and personal matters. Please restore access promptly."},
-{"subject":"Urgent Unban Request 605","message":"Hello WhatsApp, my account [###] was banned mistakenly. Requesting urgent manual review and reinstatement."},
-{"subject":"Urgent Unban Request 606","message":"Dear Team, number [###] is essential for daily communication. Kindly review and lift the ban immediately."},
-{"subject":"Urgent Unban Request 607","message":"Hello, my account [###] is important for professional and family communication. Please review and unban promptly."},
-{"subject":"Urgent Unban Request 608","message":"Dear WhatsApp Support, number [###] was mistakenly suspended. I request urgent reinstatement of access."},
-{"subject":"Urgent Unban Request 609","message":"Hello, account [###] is crucial for work and personal use. Kindly perform a manual review and restore access."},
-{"subject":"Urgent Unban Request 610","message":"Dear WhatsApp Team, my number [###] was banned in error. I request immediate review and account reinstatement."},
-{"subject":"Urgent Unban Request 800","message":"Hello WhatsApp Support, my account [###] was banned accidentally. Please review and restore access immediately."},
-{"subject":"Urgent Unban Request 801","message":"Hello WhatsApp Support, my number [###] was banned by mistake. I request immediate review and reinstatement."},
-{"subject":"Urgent Unban Request 802","message":"Dear WhatsApp Team, account [###] is critical for personal and professional communication. Please lift the ban promptly."},
-{"subject":"Urgent Unban Request 803","message":"Hello, my number [###] was suspended mistakenly. I kindly request immediate review and unban."},
-{"subject":"Urgent Unban Request 804","message":"Dear WhatsApp Support, account [###] is essential for daily work and personal matters. Please restore access urgently."},
-{"subject":"Urgent Unban Request 805","message":"Hello WhatsApp, my account [###] was banned by error. Requesting immediate manual review and reinstatement."},
-{"subject":"Urgent Unban Request 806","message":"Dear Team, number [###] is important for professional communication. Please review and lift the ban promptly."},
-{"subject":"Urgent Unban Request 807","message":"Hello, my account [###] is crucial for family and work communication. Kindly perform a manual review and restore access."},
-{"subject":"Urgent Unban Request 808","message":"Dear WhatsApp Support, number [###] was mistakenly suspended. I request immediate reinstatement."},
-{"subject":"Urgent Unban Request 809","message":"Hello, account [###] is vital for personal and professional use. Please review and unban without delay."},
-{"subject":"Urgent Unban Request 810","message":"Dear WhatsApp Team, my number [###] was banned mistakenly. I request prompt review and account restoration."},
-{"subject":"Urgent Unban Request 1000","message":"Hello WhatsApp Support, my account [###] was banned accidentally. Please review and restore access immediately."},
-{"subject":"Solicitud urgente de desbloqueo 1","message":"Hola WhatsApp, mi número [###] fue bloqueado por error. Solicito una revisión inmediata y la restauración de mi cuenta."},
-{"subject":"Dringende Entsperrung 2","message":"Hallo WhatsApp Support, meine Nummer [###] wurde fälschlicherweise gesperrt. Bitte überprüfen Sie und stellen Sie mein Konto sofort wieder her."},
-{"subject":"Solicitud urgente de desbloqueo 3","message":"Estimado equipo de WhatsApp, la cuenta [###] es vital para la comunicación personal y profesional. Solicito el desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 4","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist für berufliche und private Kommunikation wichtig. Bitte überprüfen und heben Sie die Sperre auf."},
-{"subject":"Solicitud urgente de desbloqueo 5","message":"Hola WhatsApp Support, mi número [###] fue bloqueado por error. Ruego la revisión y desbloqueo urgente."},
-{"subject":"Dringende Entsperrung 6","message":"Hallo WhatsApp, mein Account [###] wurde fälschlicherweise gesperrt. Ich bitte um sofortige Überprüfung und Wiederherstellung."},
-{"subject":"Solicitud urgente de desbloqueo 200","message":"Hola WhatsApp, la cuenta [###] fue bloqueada accidentalmente. Por favor, revisen y restauren el acceso inmediatamente."},
-{"subject":"Solicitud urgente de desbloqueo 201","message":"Hola WhatsApp Support, mi número [###] fue bloqueado por error. Solicito revisión inmediata y restauración de acceso."},
-{"subject":"Dringende Entsperrung 202","message":"Hallo WhatsApp Team, mein Konto [###] wurde versehentlich gesperrt. Bitte überprüfen und Zugang sofort wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 203","message":"Estimado equipo de WhatsApp, la cuenta [###] es esencial para comunicaciones personales y profesionales. Por favor, desbloquee inmediatamente."},
-{"subject":"Dringende Entsperrung 204","message":"Sehr geehrtes WhatsApp Support, meine Nummer [###] ist für tägliche Kommunikation wichtig. Bitte prüfen und Konto schnell wieder freigeben."},
-{"subject":"Solicitud urgente de desbloqueo 205","message":"Hola WhatsApp, mi cuenta [###] fue bloqueada por error. Ruego revisión y desbloqueo urgente."},
-{"subject":"Dringende Entsperrung 206","message":"Hallo WhatsApp, mein Account [###] wurde fälschlicherweise gesperrt. Bitte sofortige Überprüfung und Wiederherstellung."},
-{"subject":"Solicitud urgente de desbloqueo 207","message":"Hola, la cuenta [###] es vital para trabajo y vida personal. Solicito desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 208","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist für Arbeit und Familie essenziell. Bitte Überprüfung und sofortige Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 209","message":"Estimado WhatsApp Support, la cuenta [###] fue suspendida por error. Ruego desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 210","message":"Hallo WhatsApp Support, mein Nummer [###] wurde fälschlicherweise gesperrt. Bitte prüfen und Account sofort wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 400","message":"Hola WhatsApp Support, mi número [###] fue bloqueado accidentalmente. Por favor, revisen y restauren acceso inmediatamente."},
-{"subject":"Solicitud urgente de desbloqueo 401","message":"Hola WhatsApp, mi número [###] fue bloqueado por error. Solicito revisión y restauración inmediata."},
-{"subject":"Dringende Entsperrung 402","message":"Hallo WhatsApp Team, mein Konto [###] wurde versehentlich gesperrt. Bitte sofortige Überprüfung und Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 403","message":"Estimado equipo de WhatsApp, la cuenta [###] es vital para comunicación personal y profesional. Ruego desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 404","message":"Sehr geehrtes WhatsApp Support, mein Nummer [###] ist essenziell für tägliche Kommunikation. Bitte prüfen und sofort freigeben."},
-{"subject":"Solicitud urgente de desbloqueo 405","message":"Hola WhatsApp, mi cuenta [###] fue suspendida por error. Solicito desbloqueo urgente."},
-{"subject":"Dringende Entsperrung 406","message":"Hallo WhatsApp, mein Account [###] wurde fälschlicherweise gesperrt. Bitte sofortige Überprüfung und Wiederherstellung."},
-{"subject":"Solicitud urgente de desbloqueo 407","message":"Hola, la cuenta [###] es crítica para trabajo y vida personal. Por favor, desbloquee inmediatamente."},
-{"subject":"Dringende Entsperrung 408","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist wichtig für Familie und Arbeit. Bitte manuelle Überprüfung und Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 409","message":"Estimado WhatsApp Support, la cuenta [###] fue bloqueada accidentalmente. Solicito desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 410","message":"Hallo WhatsApp Support, mein Nummer [###] wurde versehentlich gesperrt. Bitte sofort prüfen und wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 600","message":"Hola WhatsApp, la cuenta [###] fue bloqueada por error. Por favor, revisen y restauren acceso inmediatamente."},
-{"subject":"Solicitud urgente de desbloqueo 601","message":"Hola WhatsApp Support, mi número [###] fue bloqueado por error. Solicito revisión y restauración inmediata."},
-{"subject":"Dringende Entsperrung 602","message":"Hallo WhatsApp Team, mein Konto [###] wurde versehentlich gesperrt. Bitte sofortige Überprüfung und Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 603","message":"Estimado equipo de WhatsApp, la cuenta [###] es vital para comunicación personal y profesional. Por favor, desbloquee inmediatamente."},
-{"subject":"Dringende Entsperrung 604","message":"Sehr geehrtes WhatsApp Support, mein Nummer [###] ist essenziell für tägliche Kommunikation. Bitte prüfen und Konto sofort freigeben."},
-{"subject":"Solicitud urgente de desbloqueo 605","message":"Hola WhatsApp, mi cuenta [###] fue suspendida por error. Ruego desbloqueo urgente."},
-{"subject":"Dringende Entsperrung 606","message":"Hallo WhatsApp, mein Account [###] wurde fälschlicherweise gesperrt. Bitte sofortige Überprüfung und Wiederherstellung."},
-{"subject":"Solicitud urgente de desbloqueo 607","message":"Hola, la cuenta [###] es crítica para trabajo y vida personal. Por favor, desbloquee inmediatamente."},
-{"subject":"Dringende Entsperrung 608","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist wichtig für Familie und Arbeit. Bitte manuelle Überprüfung und Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 609","message":"Estimado WhatsApp Support, la cuenta [###] fue bloqueada accidentalmente. Solicito desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 610","message":"Hallo WhatsApp Support, mein Nummer [###] wurde versehentlich gesperrt. Bitte sofort prüfen und wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 800","message":"Hola WhatsApp, la cuenta [###] fue bloqueada por error. Por favor, revisen y restauren acceso inmediatamente."},
-{"subject":"Solicitud urgente de desbloqueo 801","message":"Hola WhatsApp, mi número [###] fue bloqueado por error. Solicito revisión inmediata y restauración de mi cuenta."},
-{"subject":"Dringende Entsperrung 802","message":"Hallo WhatsApp Team, mein Konto [###] wurde fälschlicherweise gesperrt. Bitte prüfen und sofort wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 803","message":"Estimado equipo de WhatsApp, la cuenta [###] es vital para comunicación personal y profesional. Por favor, desbloquee de inmediato."},
-{"subject":"Dringende Entsperrung 804","message":"Sehr geehrtes WhatsApp Support, mein Account [###] ist wichtig für tägliche Kommunikation. Bitte Überprüfung und sofortige Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 805","message":"Hola WhatsApp, mi cuenta [###] fue suspendida por error. Ruego desbloqueo urgente."},
-{"subject":"Dringende Entsperrung 806","message":"Hallo WhatsApp, mein Account [###] wurde versehentlich gesperrt. Bitte sofort prüfen und wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 807","message":"Hola, la cuenta [###] es crítica para trabajo y vida personal. Por favor, desbloquee inmediatamente."},
-{"subject":"Dringende Entsperrung 808","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist wichtig für Familie und Arbeit. Bitte manuelle Überprüfung und Freigabe."},
-{"subject":"Solicitud urgente de desbloqueo 809","message":"Estimado WhatsApp Support, la cuenta [###] fue bloqueada accidentalmente. Solicito desbloqueo inmediato."},
-{"subject":"Dringende Entsperrung 810","message":"Hallo WhatsApp Support, mein Nummer [###] wurde versehentlich gesperrt. Bitte prüfen und Account sofort wiederherstellen."},
-{"subject":"Solicitud urgente de desbloqueo 1000","message":"Hola WhatsApp, mi cuenta [###] fue bloqueada por error. Solicito revisión y desbloqueo inmediato."},
-  {"subject":"Solicitud urgente de desbloqueo 1","message":"Hola WhatsApp, mi número [###] fue bloqueado por error. Solicito una revisión inmediata y la restauración de mi cuenta."},
-  {"subject":"Dringende Entsperrung 2","message":"Hallo WhatsApp Support, meine Nummer [###] wurde fälschlicherweise gesperrt. Bitte überprüfen Sie und stellen Sie mein Konto sofort wieder her."},
-  {"subject":"Solicitud urgente de desbloqueo 3","message":"Estimado equipo de WhatsApp, la cuenta [###] es vital para la comunicación personal y profesional. Solicito el desbloqueo inmediato."},
-  {"subject":"Dringende Entsperrung 4","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist für berufliche und private Kommunikation wichtig. Bitte überprüfen und heben Sie die Sperre auf."},
-  {"subject":"Solicitud urgente de desbloqueo 5","message":"Hola WhatsApp Support, mi número [###] fue bloqueado por error. Ruego la revisión y desbloqueo urgente."},
-  {"subject":"Dringende Entsperrung 6","message":"Hallo WhatsApp, mein Account [###] wurde fälschlicherweise gesperrt. Ich bitte um sofortige Überprüfung und Wiederherstellung."},
-  {"subject":"Solicitud urgente de desbloqueo 7","message":"Hola, la cuenta [###] es vital para trabajo y vida personal. Solicito desbloqueo inmediato."},
-  {"subject":"Dringende Entsperrung 8","message":"Sehr geehrtes WhatsApp Team, mein Konto [###] ist für Arbeit und Familie essenziell. Bitte Überprüfung und sofortige Freigabe."},
-  {"subject":"Solicitud urgente de desbloqueo 9","message":"Estimado WhatsApp Support, la cuenta [###] fue suspendida por error. Ruego desbloqueo inmediato."},
-  {"subject":"Dringende Entsperrung 10","message":"Hallo WhatsApp Support, mein Nummer [###] wurde fälschlicherweise gesperrt. Bitte prüfen und Account sofort wiederherstellen."},
-  {"subject":"Solicitud urgente de desbloqueo 1000","message":"Hola WhatsApp, mi cuenta [###] fue bloqueada por error. Solicito revisión y desbloqueo inmediato."},
-   {"subject":"Pedido urgente de desbloqueio 1","message":"Olá WhatsApp, meu número [###] foi bloqueado por engano. Solicito revisão imediata e restauração da conta."},
-{"subject":"Pedido urgente de desbloqueio 2","message":"Prezado suporte do WhatsApp, minha conta [###] foi suspensa incorretamente. Por favor, desbloqueie imediatamente."},
-{"subject":"Pedido urgente de desbloqueio 3","message":"Olá WhatsApp, a conta [###] é essencial para comunicação pessoal e profissional. Solicito desbloqueio urgente."},
-{"subject":"Pedido urgente de desbloqueio 4","message":"Prezada equipe do WhatsApp, meu número [###] foi bloqueado sem motivo. Rogo revisão e restauração imediata."},
-{"subject":"Pedido urgente de desbloqueio 5","message":"Olá WhatsApp, minha conta [###] foi suspensa por engano. Solicito desbloqueio imediato para continuar minhas comunicações."},
-{"subject":"Pedido urgente de desbloqueio 6","message":"Prezado suporte, a conta [###] é vital para trabalho e vida pessoal. Solicito análise e desbloqueio urgente."},
-{"subject":"Pedido urgente de desbloqueio 7","message":"Olá WhatsApp, meu número [###] é importante para comunicação diária. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 8","message":"Prezada equipe, minha conta [###] foi suspensa por erro. Solicito restauração imediata para uso contínuo."},
-{"subject":"Pedido urgente de desbloqueio 9","message":"Olá WhatsApp, meu número [###] foi bloqueado injustamente. Rogo revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 10","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."}
-{"subject":"Pedido urgente de desbloqueio 200","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito desbloqueio imediato e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 201","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito revisão imediata e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 202","message":"Prezado suporte do WhatsApp, meu número [###] foi suspenso injustamente. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 203","message":"Olá WhatsApp, a conta [###] é essencial para comunicação pessoal e profissional. Por favor, desbloqueie imediatamente."},
-{"subject":"Pedido urgente de desbloqueio 204","message":"Prezada equipe do WhatsApp, meu número [###] foi bloqueado sem motivo. Solicito análise e restauração imediata."},
-{"subject":"Pedido urgente de desbloqueio 205","message":"Olá WhatsApp, minha conta [###] foi suspensa por erro. Solicito desbloqueio urgente para continuar minhas comunicações."},
-{"subject":"Pedido urgente de desbloqueio 206","message":"Prezado suporte, a conta [###] é vital para trabalho e vida pessoal. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 207","message":"Olá WhatsApp, meu número [###] é importante para comunicação diária. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 208","message":"Prezada equipe, minha conta [###] foi suspensa por engano. Solicito restauração imediata para uso contínuo."},
-{"subject":"Pedido urgente de desbloqueio 209","message":"Olá WhatsApp, meu número [###] foi bloqueado injustamente. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 210","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 400","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito desbloqueio imediato e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 401","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito revisão imediata e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 402","message":"Prezado suporte do WhatsApp, meu número [###] foi suspenso injustamente. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 403","message":"Olá WhatsApp, a conta [###] é essencial para comunicação pessoal e profissional. Por favor, desbloqueie imediatamente."},
-{"subject":"Pedido urgente de desbloqueio 404","message":"Prezada equipe do WhatsApp, meu número [###] foi bloqueado sem motivo. Solicito análise e restauração imediata."},
-{"subject":"Pedido urgente de desbloqueio 405","message":"Olá WhatsApp, minha conta [###] foi suspensa por erro. Solicito desbloqueio urgente para continuar minhas comunicações."},
-{"subject":"Pedido urgente de desbloqueio 406","message":"Prezado suporte, a conta [###] é vital para trabalho e vida pessoal. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 407","message":"Olá WhatsApp, meu número [###] é importante para comunicação diária. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 408","message":"Prezada equipe, minha conta [###] foi suspensa por engano. Solicito restauração imediata para uso contínuo."},
-{"subject":"Pedido urgente de desbloqueio 409","message":"Olá WhatsApp, meu número [###] foi bloqueado injustamente. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 410","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 600","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito desbloqueio imediato e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 601","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito revisão imediata e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 602","message":"Prezado suporte do WhatsApp, meu número [###] foi suspenso injustamente. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 603","message":"Olá WhatsApp, a conta [###] é essencial para comunicação pessoal e profissional. Por favor, desbloqueie imediatamente."},
-{"subject":"Pedido urgente de desbloqueio 604","message":"Prezada equipe do WhatsApp, meu número [###] foi bloqueado sem motivo. Solicito análise e restauração imediata."},
-{"subject":"Pedido urgente de desbloqueio 605","message":"Olá WhatsApp, minha conta [###] foi suspensa por erro. Solicito desbloqueio urgente para continuar minhas comunicações."},
-{"subject":"Pedido urgente de desbloqueio 606","message":"Prezado suporte, a conta [###] é vital para trabalho e vida pessoal. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 607","message":"Olá WhatsApp, meu número [###] é importante para comunicação diária. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 608","message":"Prezada equipe, minha conta [###] foi suspensa por engano. Solicito restauração imediata para uso contínuo."},
-{"subject":"Pedido urgente de desbloqueio 609","message":"Olá WhatsApp, meu número [###] foi bloqueado injustamente. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 610","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 800","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito desbloqueio imediato e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 801","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito revisão imediata e restauração de acesso."},
-{"subject":"Pedido urgente de desbloqueio 802","message":"Prezado suporte do WhatsApp, meu número [###] foi suspenso injustamente. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 803","message":"Olá WhatsApp, a conta [###] é essencial para comunicação pessoal e profissional. Por favor, desbloqueie imediatamente."},
-{"subject":"Pedido urgente de desbloqueio 804","message":"Prezada equipe do WhatsApp, meu número [###] foi bloqueado sem motivo. Solicito análise e restauração imediata."},
-{"subject":"Pedido urgente de desbloqueio 805","message":"Olá WhatsApp, minha conta [###] foi suspensa por erro. Solicito desbloqueio urgente para continuar minhas comunicações."},
-{"subject":"Pedido urgente de desbloqueio 806","message":"Prezado suporte, a conta [###] é vital para trabalho e vida pessoal. Solicito desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 807","message":"Olá WhatsApp, meu número [###] é importante para comunicação diária. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 808","message":"Prezada equipe, minha conta [###] foi suspensa por engano. Solicito restauração imediata para uso contínuo."},
-{"subject":"Pedido urgente de desbloqueio 809","message":"Olá WhatsApp, meu número [###] foi bloqueado injustamente. Solicito revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 810","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."},
-{"subject":"Pedido urgente de desbloqueio 1000","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito desbloqueio imediato e restauração de acesso."},
   {
     "subject": "طلب فك حظر حساب بسبب الخطأ",
     "message": "مرحبًا، تم حظر حساب الرقم [###] بشكل غير صحيح. نرجو التحقق من الحساب وفك الحظر بأسرع وقت ممكن."
@@ -2479,5 +2307,441 @@
     {
         "subject": "Ready for Positive Change",
         "message": "[###] I am ready for positive change and committed to being an asset to the community."
-    }
+    },
+  {
+    "subject": "طلب فك حظر حساب بسبب الخطأ",
+    "message": "مرحبًا، تم حظر حساب الرقم [###] بشكل غير صحيح. نرجو التحقق من الحساب وفك الحظر بأسرع وقت ممكن."
+  },
+  {
+    "subject": "إبلاغ عن حظر غير مبرر",
+    "message": "السلام عليكم، تم حظر الرقم [###] بسبب تصرفات غير مقصودة. نرجو منكم مراجعة الحظر وفك الحساب إذا كان الحظر غير مبرر."
+  },
+  {
+    "subject": "طلب إعادة تفعيل حساب بسبب مشكلة تقنية",
+    "message": "مرحبًا، الرقم [###] تم حظره نتيجة مشكلة تقنية. نرجو التحقق وإعادة تفعيل الحساب."
+  },
+  {
+    "subject": "طلب فك الحظر بعد الالتزام بسياسات الاستخدام",
+    "message": "السلام عليكم، الرقم [###] قام بتصحيح جميع المخالفات السابقة، ونرجو فك الحظر بناءً على التزامنا بسياسات الاستخدام."
+  },
+  {
+    "subject": "طلب إعادة الحساب بعد حظره بشكل خاطئ",
+    "message": "مرحبًا، الرقم [###] تم حظره عن طريق الخطأ. نرجو المراجعة وإعادة تفعيل الحساب بأسرع وقت ممكن."
+  },
+  {
+    "subject": "إبلاغ عن حظر غير عادل",
+    "message": "السلام عليكم، نعتقد أن الرقم [###] تم حظره بدون سبب واضح. نرجو منكم إعادة النظر في الحظر وفك الحساب."
+  },
+   {
+    "subject": "طلب فك الحظر بعد الالتزام التام بسياسات الواتساب",
+    "message": "مرحبًا، الرقم [###] قام بتصحيح جميع المخالفات السابقة وملتزم تمامًا بسياسات الاستخدام. نرجو فك الحظر على الحساب."
+  },
+  {
+    "subject": "إبلاغ عن حظر حساب بدون سبب واضح",
+    "message": "السلام عليكم، الرقم [###] تم حظره بدون سبب واضح أو تنبيه مسبق. نرجو إعادة النظر في الحظر وفك الحساب."
+  },
+  {
+    "subject": "طلب إعادة الحساب بعد الحظر غير العادل",
+    "message": "مرحبًا، الرقم [###] تعرض لحظر غير عادل بسبب سوء الفهم. نرجو مراجعة الحالة وفك الحظر على الحساب."
+  },
+  {
+    "subject": "طلب استعادة حساب بسبب خطأ في نظام الواتساب",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب خطأ تقني في النظام. نرجو فك الحظر وإعادة الحساب للاستخدام."
+  },
+  {
+    "subject": "إبلاغ عن حظر الحساب بسبب تقرير كاذب",
+    "message": "مرحبًا، الرقم [###] تم حظره بناءً على تقرير كاذب. نرجو التحقق من الحساب وفك الحظر."
+  },
+  {
+    "subject": "طلب رفع الحظر بسبب تصحيح سلوك الحساب",
+    "message": "السلام عليكم، الرقم [###] قام بتصحيح سلوك الحساب بشكل كامل. نرجو رفع الحظر عن الحساب بأسرع وقت ممكن."
+  },
+    {
+    "subject": "طلب فك الحظر بسبب إغلاق الحساب بالخطأ",
+    "message": "مرحبًا، تم إغلاق الحساب الخاص بالرقم [###] عن طريق الخطأ. نرجو مراجعة الموقف وفك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب فهم خاطئ لسياسات الاستخدام",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب فهم خاطئ لسياسات الاستخدام. نرجو إعادة النظر في الحظر وفك الحساب."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد مراجعة الحساب",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب تصرفات غير مقصودة. نرجو منكم مراجعة الحساب ورفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر غير مبرر من قبل النظام",
+    "message": "السلام عليكم، الرقم [###] تم حظره من قبل النظام بشكل غير مبرر. نرجو التحقيق وفك الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تصحيح الحساب",
+    "message": "مرحبًا، الرقم [###] قام بتصحيح أي مخالفات قد تكون حدثت، نرجو فك الحظر عن الحساب بعد هذا التصحيح."
+  },
+  {
+    "subject": "إبلاغ عن حظر حساب غير مبرر في حالة الاستخدام العادي",
+    "message": "السلام عليكم، الرقم [###] تم حظره أثناء الاستخدام العادي ولا يوجد أي تصرف مخالف. نرجو فك الحظر على الحساب."
+  },
+    {
+    "subject": "طلب فك حظر حساب بعد التحقق من المحتوى",
+    "message": "مرحبًا، تم حظر الحساب للرقم [###] بعد محتوى قد يكون تم فهمه بشكل خاطئ. نرجو إعادة النظر في الحظر وفك الحساب."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام خاطئ من قبل طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرفات من طرف آخر استخدم الحساب بطريقة غير لائقة. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "طلب إعادة الحساب بعد الحظر بسبب عدم فهم السياسات",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب عدم فهم سياسات الاستخدام. نرجو منكم النظر في الحظر وإعادته بعد التصحيح."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام غير مقصود",
+    "message": "السلام عليكم، الرقم [###] تم حظره نتيجة استخدام غير مقصود. نرجو التحقق من الحساب وفك الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تقديم الاعتذار",
+    "message": "مرحبًا، الرقم [###] يقدم الاعتذار عن أي تصرف مخالف قد حدث سابقًا. نرجو فك الحظر بعد التوضيح."
+  },
+  {
+    "subject": "طلب رفع الحظر بسبب التزام المستخدم بالقواعد",
+    "message": "السلام عليكم، الرقم [###] التزم بالقواعد الجديدة للواتساب ولا توجد أي مخالفات حالياً. نرجو رفع الحظر."
+  },
+    {
+    "subject": "طلب فك الحظر بعد تحديث سياسات الاستخدام",
+    "message": "مرحبًا، الرقم [###] قام بتحديث سلوكه وفقًا لسياسات الاستخدام الجديدة. نرجو فك الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تعليق غير دقيق",
+    "message": "السلام عليكم، الرقم [###] تم حظره بناءً على تعليق غير دقيق. نرجو منكم التحقق من الحساب وفك الحظر."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد التزام المستخدم الكامل بالسياسات",
+    "message": "مرحبًا، الرقم [###] التزم بكل سياسات الاستخدام بشكل كامل ولا توجد أي مخالفات. نرجو رفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر الحساب بسبب حساب مكرر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب الحساب المكرر. نرجو فك الحظر بعد التأكد من الحساب الصحيح."
+  },
+  {
+    "subject": "طلب فك الحظر بعد إثبات البراءة",
+    "message": "مرحبًا، الرقم [###] تم حظره عن طريق الخطأ. نرجو التحقق من الحساب وإلغاء الحظر بعد إثبات البراءة."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تغيير في طريقة الاستخدام",
+    "message": "السلام عليكم، الرقم [###] قام بتغيير طريقة الاستخدام وفقًا لسياسات واتساب. نرجو رفع الحظر."
+  },
+   {
+    "subject": "طلب فك الحظر بعد مراجعة الحساب",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب مخالفات سابقة. نرجو منكم مراجعة الحساب وفك الحظر بعد التحقق من التزامنا بالقوانين."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط غير مبرر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط غير مبرر. نرجو رفع الحظر بعد مراجعة التفاصيل."
+  },
+  {
+    "subject": "طلب فك الحظر بسبب تكرار الحظر بشكل خاطئ",
+    "message": "مرحبًا، الرقم [###] تم حظره بشكل غير مبرر بسبب تكرار الحظر. نرجو منكم فك الحظر بعد التأكد من الوضع."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب حساب تم اختراقه",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب اختراق الحساب. نرجو فك الحظر بعد التحقق من استعادة الحساب."
+  },
+  {
+    "subject": "طلب فك الحظر بعد التزام الحساب بالقوانين",
+    "message": "مرحبًا، الرقم [###] التزم بالقوانين تمامًا ولم يعد هناك أي مخالفات. نرجو فك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر غير دقيق بسبب بلاغ غير صحيح",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب بلاغ غير صحيح. نرجو منكم التحقق وإلغاء الحظر."
+  },
+   {
+    "subject": "طلب فك الحظر بعد إزالة الأسباب المخالفة",
+    "message": "مرحبًا، الرقم [###] قام بإزالة الأسباب التي أدت إلى الحظر في السابق. نرجو التحقق من الحساب وفك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط مشبوه غير مبرر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط مشبوه. نرجو رفع الحظر بعد التحقيق في النشاط المشتبه به."
+  },
+  {
+    "subject": "طلب إعادة تفعيل الحساب بعد تصحيح الأخطاء",
+    "message": "مرحبًا، الرقم [###] قام بتصحيح جميع الأخطاء والمخالفات التي أدت إلى الحظر. نرجو إعادة تفعيل الحساب."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام غير عادل",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرفات غير عادلة. نرجو منكم مراجعة الحساب وفك الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تقديم دليل البراءة",
+    "message": "مرحبًا، الرقم [###] قدم دليلاً على براءته من أي مخالفة. نرجو فك الحظر بناءً على هذا الدليل."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب فهم خاطئ للسلوك",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب فهم خاطئ لسلوكه. نرجو منكم التحقق وفك الحظر."
+  },
+   {
+    "subject": "طلب فك الحظر بعد تقديم توضيح بشأن الاستخدام",
+    "message": "مرحبًا، الرقم [###] قام بتوضيح طريقة الاستخدام التي أدت إلى الحظر. نرجو منكم التحقق من التوضيح وفك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب خطأ في النظام",
+    "message": "السلام عليكم، الرقم [###] تم حظره نتيجة خطأ في النظام. نرجو منكم التحقق وإلغاء الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تحسين السلوك داخل الحساب",
+    "message": "مرحبًا، الرقم [###] قد قام بتحسين سلوكه وملتزم بكافة سياسات واتساب. نرجو رفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب اختراق الحساب بواسطة طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب اختراق الحساب من قبل طرف آخر. نرجو منكم فك الحظر بعد التحقق."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد تصحيح الخطأ التقني",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب خطأ تقني. نرجو منكم رفع الحظر بعد تصحيح الخطأ."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تقرير خاطئ من طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بناءً على تقرير خاطئ من طرف آخر. نرجو منكم التحقيق ورفع الحظر."
+  },
+    {
+    "subject": "طلب فك الحظر بعد التحقق من صحة الحساب",
+    "message": "مرحبًا، الرقم [###] تم حظره بناءً على تصرفات قد تكون غير مبررة. نرجو منكم التحقق من الحساب وفك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب خطأ في التقييم",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب خطأ في التقييم. نرجو منكم التحقق وإلغاء الحظر."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد التزام الحساب بالسياسات الجديدة",
+    "message": "مرحبًا، الرقم [###] التزم بكافة السياسات الجديدة للواتساب. نرجو رفع الحظر بعد مراجعة الحساب."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط غير مبرر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط غير مبرر. نرجو منكم التحقق من الحساب ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد التوضيح بخصوص الاستخدام الخاطئ",
+    "message": "مرحبًا، الرقم [###] قام بتوضيح سبب الاستخدام الخاطئ الذي أدى إلى الحظر. نرجو منكم رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب ملاحظة غير دقيقة",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب ملاحظة غير دقيقة. نرجو منكم التحقق ورفع الحظر."
+  },
+    {
+    "subject": "طلب رفع الحظر بعد الاعتذار عن التصرفات المخالفة",
+    "message": "مرحبًا، الرقم [###] يقدم اعتذاره عن التصرفات التي أدت إلى الحظر. نرجو منكم رفع الحظر بعد تقديم هذا الاعتذار."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام خاطئ للحساب",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب استخدام خاطئ للحساب. نرجو منكم التحقق من الحساب ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد التزام الحساب بالقوانين والسياسات",
+    "message": "مرحبًا، الرقم [###] التزم بكل القوانين والسياسات ولا توجد أي مخالفات حاليًا. نرجو رفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام حساب تم اختراقه",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب اختراق الحساب. نرجو رفع الحظر بعد استعادة السيطرة على الحساب."
+  },
+  {
+    "subject": "طلب فك الحظر بعد التأكد من عدم وجود مخالفات",
+    "message": "مرحبًا، الرقم [###] تم حظره بناءً على معلومات غير دقيقة. نرجو منكم التحقق من الحساب ورفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط غير مبرر من طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط غير مبرر من طرف آخر. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد تغيير طريقة الاستخدام",
+    "message": "مرحبًا، الرقم [###] قام بتغيير طريقة استخدامه وفقًا لسياسات واتساب. نرجو منكم رفع الحظر بعد التحقق من التغيير."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب خطأ في الأنظمة",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب خطأ تقني في الأنظمة. نرجو منكم التحقق من الحساب ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تصحيح البيانات المدخلة",
+    "message": "مرحبًا، الرقم [###] قام بتصحيح كافة البيانات المدخلة وتم التزامه بالقوانين. نرجو منكم فك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب بلاغ خاطئ من مستخدم آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بناءً على بلاغ خاطئ من مستخدم آخر. نرجو منكم التحقق من التفاصيل ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تقديم الأدلة على عدم وجود مخالفات",
+    "message": "مرحبًا، الرقم [###] قدم أدلة على عدم وجود أي مخالفات. نرجو منكم التحقق من هذه الأدلة وفك الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تصرفات غير مقصودة",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرفات غير مقصودة. نرجو منكم التحقق ورفع الحظر بعد التأكد."
+  },
+   {
+    "subject": "طلب رفع الحظر بعد التأكد من التزام الحساب بسياسات واتساب",
+    "message": "مرحبًا، الرقم [###] قام بالتزام كامل بسياسات واتساب ولا توجد أي مخالفات حالياً. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب خطأ في مراقبة الحسابات",
+    "message": "السلام عليكم، الرقم [###] تم حظره نتيجة خطأ في مراقبة الحسابات. نرجو منكم التحقق من الوضع ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد إزالة الأسباب التي أدت إلى الحظر",
+    "message": "مرحبًا، الرقم [###] قام بإزالة جميع الأسباب التي أدت إلى الحظر. نرجو منكم فك الحظر بعد التأكد من ذلك."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تفسير خاطئ للسلوك",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تفسير خاطئ لسلوكه. نرجو منكم التحقق ورفع الحظر بعد التصحيح."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تأكيد عدم وجود مخالفات مستقبلية",
+    "message": "مرحبًا، الرقم [###] يضمن عدم حدوث أي مخالفات في المستقبل. نرجو رفع الحظر بعد تأكيد ذلك."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط غير عادل من طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط غير عادل من طرف آخر. نرجو رفع الحظر بعد التحقق."
+  },
+   {
+    "subject": "طلب رفع الحظر بعد تصحيح الأخطاء التقنية",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب أخطاء تقنية. نرجو منكم التحقق من الحساب بعد تصحيح الأخطاء ورفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط مشبوه من طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط مشبوه من طرف آخر. نرجو منكم التحقق ورفع الحظر بعد التوضيح."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تحسن السلوك داخل الحساب",
+    "message": "مرحبًا، الرقم [###] قام بتحسين سلوكه وملتزم الآن بكافة السياسات. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب قيام الحساب بتصرفات غير مقصودة",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرفات غير مقصودة. نرجو منكم التحقق ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد حل المشكلة التقنية التي أدت إلى الحظر",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب مشكلة تقنية. تم حل المشكلة الآن، نرجو رفع الحظر."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام خاطئ للحساب من طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب استخدام خاطئ للحساب من طرف آخر. نرجو رفع الحظر بعد التحقق."
+  },
+   {
+    "subject": "طلب رفع الحظر بعد التزام المستخدم بالقوانين",
+    "message": "مرحبًا، الرقم [###] التزم بجميع قوانين واتساب بعد المراجعة. نرجو رفع الحظر بعد التحقق من التزامه."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب بلاغ خاطئ",
+    "message": "السلام عليكم، الرقم [###] تم حظره بناءً على بلاغ خاطئ. نرجو التحقق من البيانات ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تقديم تفسيرات بشأن المخالفات",
+    "message": "مرحبًا، الرقم [###] قدم تفسيرات كاملة بشأن المخالفات التي أدت إلى الحظر. نرجو رفع الحظر بعد المراجعة."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تصرفات غير مدروسة",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرفات غير مدروسة. نرجو منكم التحقق ورفع الحظر بعد التوضيح."
+  },
+  {
+    "subject": "طلب فك الحظر بعد التحقق من عدم وجود انتهاكات",
+    "message": "مرحبًا، الرقم [###] تم حظره بناءً على سوء فهم. نرجو منكم التحقق من الحساب ورفع الحظر بعد التأكد من عدم وجود انتهاكات."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام غير صحيح للحساب",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب استخدام غير صحيح للحساب. نرجو منكم التحقق ورفع الحظر بعد التصحيح."
+  },
+   {
+    "subject": "طلب رفع الحظر بعد التزام الحساب بالسياسات الجديدة",
+    "message": "مرحبًا، الرقم [###] التزم بكافة السياسات الجديدة للواتساب. نرجو منكم رفع الحظر بعد التحقق من الالتزام."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط غير مبرر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط غير مبرر. نرجو التحقق ورفع الحظر بعد التأكد من الوضع."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تقديم ضمانات لعدم تكرار المخالفات",
+    "message": "مرحبًا، الرقم [###] قدم ضمانات بعدم تكرار أي مخالفات مستقبلية. نرجو رفع الحظر بعد التحقق من ذلك."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب عدم فهم شروط الاستخدام",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب عدم فهم شروط الاستخدام. نرجو منكم التحقق ورفع الحظر بعد التوضيح."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد تصحيح الأخطاء الفنية",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب أخطاء فنية. نرجو رفع الحظر بعد تصحيح تلك الأخطاء."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب سوء فهم السياسات",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب سوء فهم لسياسات واتساب. نرجو التحقق من الحساب ورفع الحظر."
+  },
+   {
+    "subject": "طلب رفع الحظر بعد تعديل السلوك والتزام بالسياسات",
+    "message": "مرحبًا، الرقم [###] قام بتعديل سلوكه بالكامل ويضمن التزامه بكافة السياسات. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب مشكلة تقنية في الحساب",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب مشكلة تقنية. نرجو منكم التحقق من الحساب ورفع الحظر بعد حل المشكلة."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تنفيذ التعديلات اللازمة",
+    "message": "مرحبًا، الرقم [###] قام بتنفيذ جميع التعديلات اللازمة وفقًا للسياسات. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط خاطئ تم تصحيحه",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط خاطئ تم تصحيحه الآن. نرجو منكم رفع الحظر بعد التأكد."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد التحقق من التزام الحساب",
+    "message": "مرحبًا، الرقم [###] تم حظره بناءً على انتهاك غير مقصود. نرجو منكم التحقق من الحساب ورفع الحظر بعد التأكد من التزامه."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تصرف غير مبرر من طرف آخر",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرف غير مبرر من طرف آخر. نرجو رفع الحظر بعد التحقق من التفاصيل."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد التزام الحساب بجميع القوانين",
+    "message": "مرحبًا، الرقم [###] التزم بجميع قوانين واتساب. نرجو رفع الحظر بعد التحقق من الالتزام."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام غير مقصود للحساب",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب استخدام غير مقصود للحساب. نرجو منكم التحقق ورفع الحظر."
+  },
+  {
+    "subject": "طلب فك الحظر بعد تصحيح الوضع بشكل كامل",
+    "message": "مرحبًا، الرقم [###] قام بتصحيح الوضع بشكل كامل وفقًا لسياسات واتساب. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب انتهاك بسيط تم إصلاحه",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب انتهاك بسيط تم إصلاحه الآن. نرجو رفع الحظر بعد التأكد."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد تقديم اعتذار رسمي عن التصرفات السابقة",
+    "message": "مرحبًا، الرقم [###] قدم اعتذارًا رسميًا عن التصرفات السابقة. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب تصرفات غير مسؤولة تم تعديلها",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب تصرفات غير مسؤولة تم تعديلها بشكل كامل. نرجو منكم رفع الحظر."
+  },
+    {
+    "subject": "طلب رفع الحظر بعد تفعيل إعدادات الأمان",
+    "message": "مرحبًا، الرقم [###] قام بتفعيل جميع إعدادات الأمان اللازمة على الحساب. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب استخدام غير صحيح من قبل آخرين",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب استخدام غير صحيح من قبل آخرين. نرجو رفع الحظر بعد التحقق من التفاصيل."
+  },
+  {
+    "subject": "طلب فك الحظر بعد التصحيح الكامل للمخالفة",
+    "message": "مرحبًا، الرقم [###] قام بتصحيح كامل للمخالفة التي تسببت في الحظر. نرجو رفع الحظر بعد التأكد."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب نشاط غير ضار وتم التوضيح",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب نشاط غير ضار. تم توضيح الوضع بالكامل. نرجو رفع الحظر بعد المراجعة."
+  },
+  {
+    "subject": "طلب رفع الحظر بعد إصلاح المشاكل التقنية",
+    "message": "مرحبًا، الرقم [###] تم حظره بسبب مشاكل تقنية في الحساب. تم إصلاح المشاكل الآن. نرجو رفع الحظر بعد التحقق."
+  },
+  {
+    "subject": "إبلاغ عن حظر بسبب سوء فهم لسياسات الاستخدام",
+    "message": "السلام عليكم، الرقم [###] تم حظره بسبب سوء فهم لسياسات الاستخدام. نرجو رفع الحظر بعد التحقق من الوضع."
+  },
+   {
+    "subject": "طلب رفع الحظر بعد إتمام التحقق من الحساب",
+    "message": "مرحبًا، الرقم [###] تم التحقق من حسابه وتم إصلاح جميع المخالفات. نرجو رفع الحظر بعد التحقق."
+  }
 ]
