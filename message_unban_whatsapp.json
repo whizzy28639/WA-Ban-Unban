@@ -125,7 +125,7 @@
 {"subject":"Pedido urgente de desbloqueio 7","message":"Olá WhatsApp, meu número [###] é importante para comunicação diária. Solicito desbloqueio imediato."},
 {"subject":"Pedido urgente de desbloqueio 8","message":"Prezada equipe, minha conta [###] foi suspensa por erro. Solicito restauração imediata para uso contínuo."},
 {"subject":"Pedido urgente de desbloqueio 9","message":"Olá WhatsApp, meu número [###] foi bloqueado injustamente. Rogo revisão urgente e desbloqueio da conta."},
-{"subject":"Pedido urgente de desbloqueio 10","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."}
+{"subject":"Pedido urgente de desbloqueio 10","message":"Prezado suporte, minha conta [###] é essencial. Solicito análise e desbloqueio imediato."},
 {"subject":"Pedido urgente de desbloqueio 200","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito desbloqueio imediato e restauração de acesso."},
 {"subject":"Pedido urgente de desbloqueio 201","message":"Olá WhatsApp, minha conta [###] foi bloqueada por engano. Solicito revisão imediata e restauração de acesso."},
 {"subject":"Pedido urgente de desbloqueio 202","message":"Prezado suporte do WhatsApp, meu número [###] foi suspenso injustamente. Solicito desbloqueio imediato."},
@@ -686,7 +686,7 @@
     {
         "subject": "Impacto emocional por la suspensión de mi cuenta",
         "message": "[###] La suspensión de mi cuenta ha tenido un impacto emocional significativo en mí. Solicito su comprensión y asistencia para restaurarla."
-    }
+    },
     {
         "subject": "Urgent Appeal for Account Suspension",
         "message": "[###] My account has been suspended, and I am unsure why. I kindly request an immediate review to resolve this issue."
