@@ -1,0 +1,2523 @@
+[
+  { "subject": "إبلاغ عن سلوك مسيء", "message": "مرحبًا، الرقم [###] يقوم بتهديد وإساءة واضحة. نرجو حظر الحساب فورًا." },
+  { "subject": "طلب حظر حساب", "message": "الرقم [###] ينتهك سياسات واتساب بسلوك عدائي. نرجو اتخاذ إجراء عاجل." },
+  { "subject": "إبلاغ عن تهديد مباشر", "message": "مرحبًا، الرقم [###] يرسل تهديدات خطيرة. أرجو حظر حسابه." },
+  { "subject": "إبلاغ عن استخدام غير قانوني", "message": "السلام عليكم، الرقم [###] يستخدم واتساب لأغراض غير قانونية. نرجو منكم الحظر." },
+  { "subject": "طلب إيقاف حساب مخالف", "message": "الرقم [###] يقوم بانتهاكات متكررة لسياسات واتساب. نرجو إلغاء حسابه." },
+  { "subject": "إبلاغ عن ابتزاز", "message": "مرحبًا، الرقم [###] يبتز المستخدمين ويسيء استخدام واتساب. نرجو الحظر." },
+  { "subject": "شكوى عن تهديد أمني", "message": "السلام عليكم، الرقم [###] يهدد باختراق الأجهزة. الرجاء الحظر فورًا." },
+  { "subject": "طلب حظر عاجل", "message": "مرحبًا، الرقم [###] يقوم بسلوك مخالف وخطير. نرجو الحظر العاجل." },
+  { "subject": "إبلاغ عن نشر الخوف", "message": "الرقم [###] ينشر الذعر والتهديدات. رجاءً يتم الحظر." },
+  { "subject": "إبلاغ عن انتهاك صارخ", "message": "السلام عليكم، الرقم [###] قام بانتهاكات واضحة. نرجو إيقافه." },
+
+  { "subject": "إبلاغ عن إساءة خطيرة", "message": "الرقم [###] يرسل إساءات وتهديدات حادة. نرجو حظره." },
+  { "subject": "طلب حظر رقم مزعج", "message": "مرحبًا، الرقم [###] يزعج المستخدمين بتصرفات غير لائقة. نرجو الحظر." },
+  { "subject": "إبلاغ عن محاولة اختراق", "message": "الرقم [###] يدّعي قدرته على اختراق الحسابات. نرجو حظره." },
+  { "subject": "شكوى عن سلوك عدواني", "message": "السلام عليكم، الرقم [###] يتصرف بعدوانية ويخالف السياسات. الرجاء الحظر." },
+  { "subject": "إبلاغ عن تهديدات مستمرة", "message": "مرحبًا، الرقم [###] يكرر التهديدات ويخالف القواعد. نرجو حظره." },
+  { "subject": "طلب إيقاف رقم خطير", "message": "الرقم [###] يشكل خطرًا على المستخدمين. الرجاء حظره فورًا." },
+  { "subject": "إبلاغ عن انتحال شخصية", "message": "السلام عليكم، الرقم [###] ينتحل صفة غير حقيقية. نرجو الحظر." },
+  { "subject": "شكوى عن محتوى مسيء", "message": "مرحبًا، الرقم [###] يرسل محتوى مسيء ومخالف. نرجو الحظر." },
+  { "subject": "إبلاغ عن سلوك تخريبي", "message": "الرقم [###] يهدد بتخريب الحسابات. نرجو اتخاذ إجراء سريع." },
+  { "subject": "طلب حظر دائم", "message": "السلام عليكم، الرقم [###] يخالف السياسات بطرق خطيرة. نرجو حظره دائمًا." },
+
+  { "subject": "إبلاغ عن ازعاج متكرر", "message": "مرحبًا، الرقم [###] يسبب إزعاجًا متكررًا. نرجو إيقافه." },
+  { "subject": "شكوى عن تهديدات تقنية", "message": "الرقم [###] يدّعي قدرته على تعطيل الأجهزة. نرجو الحظر." },
+  { "subject": "طلب إجراءات تأديبية", "message": "السلام عليكم، الرقم [###] يقوم بتصرفات مخالفة. نرجو الحظر." },
+  { "subject": "إبلاغ عن مخالفة شديدة", "message": "مرحبًا، الرقم [###] قام بمخالفة شديدة لسياسات واتساب. نرجو الحظر." },
+  { "subject": "بلاغ عن محتوى غير مناسب", "message": "الرقم [###] يشارك محتوى غير مناسب. نرجو الحظر." },
+  { "subject": "شكوى عن تهديد بحظر الحسابات", "message": "السلام عليكم، الرقم [###] يهدد المستخدمين بالحظر. نرجو حظره." },
+  { "subject": "إبلاغ عن سلوك مؤذٍ", "message": "مرحبًا، الرقم [###] يسبب أذى نفسي للمستخدمين. نرجو إيقافه." },
+  { "subject": "طلب منع رقم مخالف", "message": "الرقم [###] خالف القوانين ويجب حظره." },
+  { "subject": "إبلاغ عن محاولة تخويف", "message": "السلام عليكم، الرقم [###] يحاول تخويف الآخرين. نرجو اتخاذ إجراء." },
+  { "subject": "بلاغ عن استخدام تهديدي", "message": "مرحبًا، الرقم [###] يستخدم أساليب تهديدية مخيفة. نرجو الحظر." },
+
+  { "subject": "بلاغ عن ابتزاز خطير", "message": "الرقم [###] يبتز المستخدمين ويخالف السياسات. نرجو الحظر." },
+  { "subject": "إبلاغ عن تحرش رقمي", "message": "السلام عليكم، الرقم [###] يتحرش بالمستخدمين. نرجو الحظر." },
+  { "subject": "إبلاغ عن تهديد بقرصنة", "message": "مرحبًا، الرقم [###] يدّعي أنه سيقرصن الحسابات. نرجو الحظر." },
+  { "subject": "بلاغ عن استخدام مريب", "message": "الرقم [###] يستخدم واتساب بشكل م" },
+  { "subject": "Report of abusive behavior", "message": "Hello, the number [###] is engaging in abusive and threatening behavior. Please ban this account immediately." },
+  { "subject": "Urgent request to ban account", "message": "The number [###] is violating WhatsApp policies with harmful actions. Please take urgent action and ban this account." },
+  { "subject": "Report of direct threats", "message": "Hello, the number [###] is sending direct threats. Please remove this account." },
+  { "subject": "Report of illegal misuse", "message": "Hi, the number [###] is using WhatsApp for illegal activities. Please ban this account." },
+  { "subject": "Request to disable violating account", "message": "The number [###] is repeatedly violating WhatsApp policies. Kindly disable the account." },
+  { "subject": "Report of extortion attempt", "message": "Hello, the number [###] is attempting extortion and misuse. Please take action and ban this account." },
+  { "subject": "Security threat report", "message": "Hi, the number [###] is threatening to hack devices. Please ban the account immediately." },
+  { "subject": "Request for urgent account removal", "message": "The number [###] is behaving dangerously and violating rules. Please remove this account." },
+  { "subject": "Report of intimidation", "message": "Hello, this user [###] is intimidating others with threats. Please ban the account." },
+  { "subject": "Serious violation report", "message": "Hi, the number [###] committed a serious violation. Please take strict action." },
+  { "subject": "Harassment report", "message": "Hello, the number [###] is sending harassing messages. Please ban this user." },
+  { "subject": "Report of spam and abuse", "message": "The number [###] is spamming and abusing users. Please remove the account." },
+  { "subject": "Attempted hacking report", "message": "Hi, the number [###] is claiming to hack accounts. Please ban them immediately." },
+  { "subject": "Aggressive behavior report", "message": "Hello, the number [###] shows aggressive and harmful conduct. Please suspend the account." },
+  { "subject": "Report of repeated threats", "message": "Hi, the number [###] keeps sending threats. Please ban this account." },
+  { "subject": "Dangerous account report", "message": "Hello, the number [###] is a danger to users. Please ban immediately." },
+  { "subject": "Impersonation report", "message": "Hi, the number [###] is pretending to have authority. Please take action." },
+  { "subject": "Inappropriate content report", "message": "Hello, the number [###] is sending inappropriate content. Please remove the account." },
+  { "subject": "Disruptive behavior report", "message": "Hi, the number [###] is threatening to damage accounts. Please ban this user." },
+  { "subject": "Request for permanent ban", "message": "Hello, the number [###] is committing severe violations. Please permanently ban the account." },
+  { "subject": "Repeated harassment report", "message": "Hi, the number [###] is repeatedly harassing users. Please suspend them." },
+  { "subject": "Technical threat report", "message": "Hello, the number [###] claims they can disable devices. Please ban them." },
+  { "subject": "Policy violation report", "message": "Hi, the number [###] is violating multiple rules. Please review and ban." },
+  { "subject": "Severe misconduct report", "message": "Hello, the number [###] committed severe misconduct. Please take action." },
+  { "subject": "Inappropriate behavior report", "message": "Hi, the number [###] is sharing inappropriate material. Please ban the account." },
+  { "subject": "Threatening behavior report", "message": "Hello, the number [###] is threatening users with account bans. Please remove this account" },
+  { "subject": "Report: Abusive Account", "message": "Hello, the number [###] is sending abusive messages and violating WhatsApp policies. Please ban this account immediately." },
+  { "subject": "Request: Ban Dangerous User", "message": "The number [###] is behaving dangerously and violating multiple WhatsApp rules. Immediate action is needed." },
+  { "subject": "Report: Threatening Behavior", "message": "Hello, the number [###] is making direct threats. This is a serious violation. Please remove this account." },
+  { "subject": "Report: Policy Violation", "message": "The number [###] is involved in activities that violate WhatsApp policies. Please take action and ban the account." },
+  { "subject": "Urgent Ban Request", "message": "Hello, the number [###] is engaging in harmful behavior. Please ban this account urgently." },
+
+  { "subject": "Report: Harassment", "message": "The number [###] is harassing users on WhatsApp. Please suspend the account." },
+  { "subject": "Ban Request: Repeated Threats", "message": "Hello, the number [###] keeps sending threats. This account needs to be banned immediately." },
+  { "subject": "Report: Dangerous User", "message": "The number [###] is causing harm and fear. This is a violation of WhatsApp policies. Please ban the user." },
+  { "subject": "Report: Abusive Conduct", "message": "Hello, the number [###] is acting abusively and violating terms. Kindly ban the account." },
+  { "subject": "Report: Unsafe User", "message": "The number [###] is creating an unsafe environment for others. Please take action and ban the account." },
+
+  { "subject": "Report: Threat of Hacking", "message": "Hello, the number [###] is threatening to hack devices and accounts. This is a major violation. Please remove the account." },
+  { "subject": "Ban Request: Intimidation", "message": "The number [###] is intimidating other users. Please ban this account immediately." },
+  { "subject": "Report: Harmful Behavior", "message": "Hello, the number [###] is engaging in harmful and abusive behavior. Ban is requested." },
+  { "subject": "Request: Remove Violating Account", "message": "The number [###] is violating community guidelines. Please suspend this account." },
+  { "subject": "Report: Repeated Violations", "message": "Hello, the number [###] is constantly violating WhatsApp rules. Immediate ban requested." },
+
+  { "subject": "Report: Abuse and Misconduct", "message": "The number [###] is using WhatsApp for misconduct. Please ban the account." },
+  { "subject": "Ban Request: Digital Threats", "message": "Hello, the number [###] is threatening users with hacking and banning. Please remove the user." },
+  { "subject": "Report: Security Threat", "message": "The number [###] is making dangerous security threats. Please take action and ban the account." },
+  { "subject": "Urgent Report: Violator", "message": "Hello, the number [###] is violating terms and threatening users. Ban needed." },
+  { "subject": "Request: Permanent Ban", "message": "The number [###] is engaging in severe violations. Please permanently ban this account." },
+
+  { "subject": "Report: Serious Misconduct", "message": "Hello, the number [###] is committing serious misconduct on WhatsApp. Immediate action is needed." },
+  { "subject": "Ban Requested: Safety Concern", "message": "The number [###] poses a safety risk. Please ban the account." },
+  { "subject": "Report: Threatening Messages", "message": "Hello, the number [###] is sending threatening messages. This account should be removed." },
+  { "subject": "Action Needed: Violating User", "message": "The number [###] is violating policies. Please take action immediately." },
+  { "subject": "Report: Abuse of Platform", "message": "Hello, the number [###] is abusing WhatsApp's services. Account ban requested." },
+
+  { "subject": "Report: Attempted Intimidation", "message": "The number [###] is trying to intimidate users. Please ban the account." },
+  { "subject": "Ban Request: Harmful User", "message": "Hello, the number [###] is causing harm and violating policies. Kindly remove them." },
+  { "subject": "Report: Misuse of WhatsApp", "message": "The number [###] is misusing the platform. Please ban the account." },
+  { "subject": "Urgent Ban: Violator", "message": "Hello, the number [###] is violating rules in a harmful way. Immediate ban recommended." },
+  { "subject": "Report: Dangerous Threats", "message": "The number [###] is issuing dangerous threats. Please take action." },
+
+  { "subject": "Report: Account Misuse", "message": "Hello, the number [###] is misusing their account to threaten others. Please ban them." },
+  { "subject": "Ban Request: Abuse", "message": "The number [###] is engaging in abusive actions. Please remove the account." },
+  { "subject": "Report: Fear-Inducing Behavior", "message": "Hello, the number [###] is attempting to scare users. This violates policy. Ban is needed." },
+  { "subject": "Report: Violation of Guidelines", "message": "The number [###] is breaking WhatsApp guidelines. Please take action." },
+  { "subject": "Request: Immediate Removal", "message": "Hello, the number [###] is causing major violations. Please remove the account immediately." },
+
+  { "subject": "Report: Repeated Abuse", "message": "The number [###] continues to abuse users. Ban recommended." },
+  { "subject": "Report: Cyber Threats", "message": "Hello, the number [###] is making cyber-related threats. Please ban the account." },
+  { "subject": "Ban Request: Harasser", "message": "The number [###] is harassing users. Kindly remove the account." },
+  { "subject": "Report: User Endangering Others", "message": "Hello, the number [###] is endangering other users. Please act fast." },
+  { "subject": "Report: Serious Policy Breach", "message": "The number [###] has committed a serious policy breach. Ban needed." },
+
+  { "subject": "Report: Severe Misconduct", "message": "Hello, the number [###] is involved in severe misconduct. Please ban the account." },
+  { "subject": "Request: Ban for Safety", "message": "The number [###] threatens user safety. Ban is necessary." },
+  { "subject": "Report: Violent Threats", "message": "Hello, the number [###] is sending violent threats. Please remove the account." },
+  { "subject": "Action Requested: Violator", "message": "The number [###] is violating the rules repeatedly. Please take action." },
+  { "subject": "Report: Misleading Threats", "message": "Hello, the number [###] is sending fake hacking threats. Please ban the account." },
+
+  { "subject": "Report: User Violating TOS", "message": "The number [###] is violating Terms of Service. Immediate ban requested." },
+  { "subject": "Ban Request: Toxic Behavior", "message": "Hello, the number [###] is behaving toxically. Please remove the account." },
+  { "subject": "Report: Account Abuse", "message": "The number [###] is abusing the platform. Action is required." },
+  { "subject": "Request: Ban Abusive User", "message": "Hello, the number [###] is abusive and harmful. Please ban them." },
+  { "subject": "Report: User Making Threats", "message": "The number [###] continues to make threats. Immediate action needed." },
+
+  { "subject": "Report: Harmful Violations", "message": "Hello, the number [###] is committing harmful violations. Please ban the account." },
+  { "subject": "Request: Ban for Misconduct", "message": "The number [###] shows repeated misconduct. Kindly remove the account." },
+  { "subject": "Report: Dangerous Activity", "message": "Hello, the number [###] is engaging in dangerous activity. Ban recommended." },
+  { "subject": "Action Needed: Abusive Account", "message": "The number [###] is abusive. Please take action." },
+  { "subject": "Report: Threatening User", "message": "Hello, the number [###] is issuing threats repeatedly. Please remove them." },
+
+  { "subject": "Report: Harassment Violation", "message": "The number [###] is violating harassment rules. Please ban the account." },
+  { "subject": "Ban Request: Violent Messages", "message": "Hello, the number [###] sends violent messages. Please remove the account." },
+  { "subject": "Report: High-Risk User", "message": "The number [###] is high-risk and dangerous. Action is needed." },
+  { "subject": "Request: Remove Threatening User", "message": "Hello, the number [###] is threatening others. Please ban them immediately." },
+  { "subject": "Report: Multiple Violations", "message": "The number [###] has multiple violations. Please take action now." },
+
+  { "subject": "Urgent: Policy Breach", "message": "Hello, the number [###] is committing a serious policy breach. Ban requested." },
+  { "subject": "Ban Request: Aggressive User", "message": "The number [###] is aggressive and harmful. Please ban the account." },
+  { "subject": "Report: Repeated Harmful Acts", "message": "Hello, the number [###] keeps harming users. Action needed." },
+  { "subject": "Request: Permanent Suspension", "message": "The number [###] is unsafe to others. Please suspend permanently." },
+  { "subject": "Report: User Making Threats", "message": "Hello, the number [###] is making dangerous threats. Please take action." },
+
+  { "subject": "Report: Misuse and Abuse", "message": "The number [###] is misusing WhatsApp and abusing users. Ban required." },
+  { "subject": "Ban Request: Threatening Account", "message": "Hello, the number [###] threatens users frequently. Please remove the account." },
+  { "subject": "Report: Disruptive Behavior", "message": "The number [###] is disrupting user safety. Ban requested." },
+  { "subject": "Request: Action Against User", "message": "Hello, the number [###] violates WhatsApp rules. Please take immediate action." },
+  { "subject": "Report: Dangerous Conduct", "message": "The number [###] is engaging in dangerous conduct. Please ban them." },
+  {"subject":"URGENT: Severe Policy Violation","message":"Hello WhatsApp Team, the number [###] is involved in a serious breach of your Community Standards. Immediate action is required."},
+  {"subject":"Immediate Action Required","message":"Please review the number [###]. They are engaging in harmful behavior that violates WhatsApp policies. Urgent suspension requested."},
+  {"subject":"Critical Violation Report","message":"The number [###] is abusing WhatsApp in a dangerous manner. This requires urgent intervention."},
+  {"subject":"Emergency Review Needed","message":"WhatsApp Team, the account [###] is causing harm and breaking multiple rules. Please take immediate action."},
+  {"subject":"Urgent Complaint Against Account","message":"Please review the number [###] for severe misuse and policy violations. Immediate ban recommended."},
+  {"subject":"High Priority Violation Report","message":"The account [###] is actively violating your policies. Requesting an urgent review and removal."},
+  {"subject":"Immediate Suspension Request","message":"Hello, the user [###] is committing harmful actions. Please take urgent enforcement action."},
+  {"subject":"Serious Abuse Report","message":"The number [###] is involved in harassment and harmful activity. This requires immediate moderation."},
+  {"subject":"Urgent Enforcement Needed","message":"Account [###] is involved in repeated policy violations. Please take immediate corrective action."},
+  {"subject":"Critical User Misconduct Report","message":"WhatsApp Team, the number [###] is engaging in dangerous and prohibited behavior. Urgent suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 1","message":"The number [###] is engaging in malicious behavior violating WhatsApp policies. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 2","message":"Account [###] is causing serious disruption and harassment. WhatsApp enforcement must act immediately."},
+{"subject":"EXTREME URGENT: Policy Violation 3","message":"The user [###] is abusing WhatsApp features for harmful purposes. Requesting urgent ban action."},
+{"subject":"EXTREME URGENT: Policy Violation 4","message":"The number [###] is violating community standards and threatening users. Immediate suspension needed."},
+{"subject":"EXTREME URGENT: Policy Violation 5","message":"WhatsApp Team, account [###] is conducting harmful activity. Immediate enforcement action required."},
+{"subject":"EXTREME URGENT: Policy Violation 6","message":"The number [###] is engaging in repeated abuse and harassment. Immediate account termination requested."},
+{"subject":"EXTREME URGENT: Policy Violation 7","message":"Account [###] is violating multiple WhatsApp rules. Immediate permanent ban is critical."},
+{"subject":"EXTREME URGENT: Policy Violation 8","message":"The user [###] is performing dangerous actions on WhatsApp. Immediate action must be taken."},
+{"subject":"EXTREME URGENT: Policy Violation 9","message":"Number [###] is misusing WhatsApp and threatening others. Urgent suspension requested."},
+{"subject":"EXTREME URGENT: Policy Violation 10","message":"Account [###] is conducting serious policy violations. Immediate ban is necessary."},
+{"subject":"EXTREME URGENT: Policy Violation 11","message":"The number [###] is performing abusive and harmful activity. WhatsApp must intervene immediately."},
+{"subject":"EXTREME URGENT: Policy Violation 12","message":"Account [###] is repeatedly violating WhatsApp policies. Requesting urgent ban."},
+{"subject":"EXTREME URGENT: Policy Violation 13","message":"The user [###] is engaging in high-risk behavior. Immediate enforcement needed."},
+{"subject":"EXTREME URGENT: Policy Violation 14","message":"Number [###] is threatening community safety. Immediate suspension is required."},
+{"subject":"EXTREME URGENT: Policy Violation 15","message":"Account [###] is abusing WhatsApp rules and harassing users. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 16","message":"The number [###] is causing severe disruption. Urgent action to ban this account is critical."},
+{"subject":"EXTREME URGENT: Policy Violation 17","message":"User [###] is performing actions that violate WhatsApp standards. Immediate enforcement necessary."},
+{"subject":"EXTREME URGENT: Policy Violation 18","message":"Account [###] is engaging in malicious and abusive activity. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 19","message":"The number [###] is threatening users and violating rules. WhatsApp must act immediately."},
+{"subject":"EXTREME URGENT: Policy Violation 20","message":"User [###] is committing serious breaches. Requesting immediate account suspension."},
+{"subject":"EXTREME URGENT: Policy Violation 21","message":"Number [###] is repeatedly violating WhatsApp rules and harassing users. Immediate action is required."},
+{"subject":"EXTREME URGENT: Policy Violation 22","message":"Account [###] is engaging in dangerous activity. Urgent permanent ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 23","message":"The user [###] is misusing WhatsApp features to harm others. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 24","message":"Number [###] is conducting abusive behavior and breaking rules. Request urgent suspension."},
+{"subject":"EXTREME URGENT: Policy Violation 25","message":"Account [###] is violating community safety standards. Immediate action is critical."},
+{"subject":"EXTREME URGENT: Policy Violation 26","message":"The number [###] is performing high-risk malicious activity. WhatsApp must intervene now."},
+{"subject":"EXTREME URGENT: Policy Violation 27","message":"User [###] is threatening other users and breaking multiple rules. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 28","message":"Account [###] is conducting abusive activity. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 29","message":"The number [###] is violating policies and harassing users. Urgent action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 30","message":"Account [###] is misusing WhatsApp in harmful ways. Immediate ban necessary."},
+{"subject":"EXTREME URGENT: Policy Violation 31","message":"Number [###] is performing malicious actions repeatedly. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 32","message":"User [###] is causing serious disruption and violating rules. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 33","message":"Account [###] is threatening others and breaking WhatsApp policies. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 34","message":"Number [###] is committing abusive behavior. Urgent permanent ban is necessary."},
+{"subject":"EXTREME URGENT: Policy Violation 35","message":"User [###] is performing dangerous acts on WhatsApp. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 36","message":"Account [###] is engaging in harmful violations. Immediate action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 37","message":"Number [###] is repeatedly harassing users. Urgent suspension needed."},
+{"subject":"EXTREME URGENT: Policy Violation 38","message":"User [###] is abusing WhatsApp policies and threatening community. Immediate ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 39","message":"Account [###] is conducting high-risk activity. Immediate action is critical."},
+{"subject":"EXTREME URGENT: Policy Violation 40","message":"Number [###] is violating multiple WhatsApp rules. Request urgent enforcement."},
+{"subject":"EXTREME URGENT: Policy Violation 199","message":"User [###] is performing repeated harmful actions. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 200","message":"Account [###] is abusing WhatsApp and threatening others. Urgent action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 201","message":"Number [###] is repeatedly violating WhatsApp rules and harassing users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 202","message":"Account [###] is engaging in dangerous activity that threatens other users. Urgent enforcement needed."},
+{"subject":"EXTREME URGENT: Policy Violation 203","message":"User [###] is misusing WhatsApp features for harmful purposes. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 204","message":"Number [###] is conducting abusive behavior. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 205","message":"Account [###] is violating community standards and threatening safety. Urgent action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 206","message":"The number [###] is performing malicious activity. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 207","message":"User [###] is harassing and threatening others on WhatsApp. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 208","message":"Account [###] is engaging in repeated violations and abuse. Urgent suspension requested."},
+{"subject":"EXTREME URGENT: Policy Violation 209","message":"Number [###] is committing serious breaches of WhatsApp rules. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 210","message":"Account [###] is causing disruption and violating policies. Immediate ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 211","message":"User [###] is performing harmful actions. Requesting urgent enforcement."},
+{"subject":"EXTREME URGENT: Policy Violation 212","message":"Number [###] is misusing WhatsApp and threatening community safety. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 213","message":"Account [###] is abusing features and harassing users. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 214","message":"User [###] is engaging in dangerous activity. Urgent permanent ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 215","message":"Number [###] is repeatedly violating rules and threatening users. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 216","message":"Account [###] is committing serious abuse on WhatsApp. Requesting urgent ban."},
+{"subject":"EXTREME URGENT: Policy Violation 217","message":"User [###] is performing malicious actions. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 218","message":"Number [###] is abusing WhatsApp policies and threatening others. Urgent action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 219","message":"Account [###] is engaging in repeated harmful activity. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 220","message":"User [###] is causing serious disruption. Immediate enforcement action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 399","message":"Number [###] is abusing WhatsApp and threatening other users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 400","message":"Account [###] is committing repeated violations and abuse. Urgent enforcement action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 401","message":"Number [###] is repeatedly violating WhatsApp rules and harassing users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 402","message":"Account [###] is engaging in dangerous activity that threatens other users. Urgent enforcement needed."},
+{"subject":"EXTREME URGENT: Policy Violation 403","message":"User [###] is misusing WhatsApp features for harmful purposes. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 404","message":"Number [###] is conducting abusive behavior. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 405","message":"Account [###] is violating community standards and threatening safety. Urgent action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 406","message":"The number [###] is performing malicious activity. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 407","message":"User [###] is harassing and threatening others on WhatsApp. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 408","message":"Account [###] is engaging in repeated violations and abuse. Urgent suspension requested."},
+{"subject":"EXTREME URGENT: Policy Violation 409","message":"Number [###] is committing serious breaches of WhatsApp rules. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 410","message":"Account [###] is causing disruption and violating policies. Immediate ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 411","message":"User [###] is performing harmful actions. Requesting urgent enforcement."},
+{"subject":"EXTREME URGENT: Policy Violation 412","message":"Number [###] is misusing WhatsApp and threatening community safety. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 413","message":"Account [###] is abusing features and harassing users. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 414","message":"User [###] is engaging in dangerous activity. Urgent permanent ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 415","message":"Number [###] is repeatedly violating rules and threatening users. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 416","message":"Account [###] is committing serious abuse on WhatsApp. Requesting urgent ban."},
+{"subject":"EXTREME URGENT: Policy Violation 417","message":"User [###] is performing malicious actions. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 418","message":"Number [###] is abusing WhatsApp policies and threatening others. Urgent action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 419","message":"Account [###] is engaging in repeated harmful activity. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 420","message":"User [###] is causing serious disruption. Immediate enforcement action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 599","message":"Number [###] is abusing WhatsApp and threatening other users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 600","message":"Account [###] is committing repeated violations and abuse. Urgent enforcement action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 601","message":"Number [###] is repeatedly violating WhatsApp rules and harassing users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 602","message":"Account [###] is engaging in dangerous activity that threatens other users. Urgent enforcement needed."},
+{"subject":"EXTREME URGENT: Policy Violation 603","message":"User [###] is misusing WhatsApp features for harmful purposes. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 604","message":"Number [###] is conducting abusive behavior. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 605","message":"Account [###] is violating community standards and threatening safety. Urgent action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 606","message":"The number [###] is performing malicious activity. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 607","message":"User [###] is harassing and threatening others on WhatsApp. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 608","message":"Account [###] is engaging in repeated violations and abuse. Urgent suspension requested."},
+{"subject":"EXTREME URGENT: Policy Violation 609","message":"Number [###] is committing serious breaches of WhatsApp rules. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 610","message":"Account [###] is causing disruption and violating policies. Immediate ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 611","message":"User [###] is performing harmful actions. Requesting urgent enforcement."},
+{"subject":"EXTREME URGENT: Policy Violation 612","message":"Number [###] is misusing WhatsApp and threatening community safety. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 613","message":"Account [###] is abusing features and harassing users. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 614","message":"User [###] is engaging in dangerous activity. Urgent permanent ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 615","message":"Number [###] is repeatedly violating rules and threatening users. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 616","message":"Account [###] is committing serious abuse on WhatsApp. Requesting urgent ban."},
+{"subject":"EXTREME URGENT: Policy Violation 617","message":"User [###] is performing malicious actions. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 618","message":"Number [###] is abusing WhatsApp policies and threatening others. Urgent action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 619","message":"Account [###] is engaging in repeated harmful activity. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 620","message":"User [###] is causing serious disruption. Immediate enforcement action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 799","message":"Number [###] is abusing WhatsApp and threatening other users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 800","message":"Account [###] is committing repeated violations and abuse. Urgent enforcement action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 801","message":"Number [###] is repeatedly violating WhatsApp rules and harassing users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 802","message":"Account [###] is engaging in dangerous activity that threatens other users. Urgent enforcement needed."},
+{"subject":"EXTREME URGENT: Policy Violation 803","message":"User [###] is misusing WhatsApp features for harmful purposes. Immediate ban requested."},
+{"subject":"EXTREME URGENT: Policy Violation 804","message":"Number [###] is conducting abusive behavior. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 805","message":"Account [###] is violating community standards and threatening safety. Urgent action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 806","message":"The number [###] is performing malicious activity. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 807","message":"User [###] is harassing and threatening others on WhatsApp. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 808","message":"Account [###] is engaging in repeated violations and abuse. Urgent suspension requested."},
+{"subject":"EXTREME URGENT: Policy Violation 809","message":"Number [###] is committing serious breaches of WhatsApp rules. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 810","message":"Account [###] is causing disruption and violating policies. Immediate ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 811","message":"User [###] is performing harmful actions. Requesting urgent enforcement."},
+{"subject":"EXTREME URGENT: Policy Violation 812","message":"Number [###] is misusing WhatsApp and threatening community safety. Immediate action required."},
+{"subject":"EXTREME URGENT: Policy Violation 813","message":"Account [###] is abusing features and harassing users. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 814","message":"User [###] is engaging in dangerous activity. Urgent permanent ban needed."},
+{"subject":"EXTREME URGENT: Policy Violation 815","message":"Number [###] is repeatedly violating rules and threatening users. Immediate enforcement required."},
+{"subject":"EXTREME URGENT: Policy Violation 816","message":"Account [###] is committing serious abuse on WhatsApp. Requesting urgent ban."},
+{"subject":"EXTREME URGENT: Policy Violation 817","message":"User [###] is performing malicious actions. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 818","message":"Number [###] is abusing WhatsApp policies and threatening others. Urgent action requested."},
+{"subject":"EXTREME URGENT: Policy Violation 819","message":"Account [###] is engaging in repeated harmful activity. Immediate suspension required."},
+{"subject":"EXTREME URGENT: Policy Violation 820","message":"User [###] is causing serious disruption. Immediate enforcement action needed."},
+{"subject":"EXTREME URGENT: Policy Violation 999","message":"Number [###] is abusing WhatsApp and threatening other users. Immediate permanent ban required."},
+{"subject":"EXTREME URGENT: Policy Violation 1000","message":"Account [###] is committing repeated violations and abuse. Urgent enforcement action requested."},
+{"subject":"DRINGEND: Richtlinienverstoß 001","message":"Die Nummer [###] verstößt wiederholt gegen WhatsApp-Regeln und belästigt Nutzer. Sofortige dauerhafte Sperrung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 002","message":"Das Konto [###] führt gefährliche Aktivitäten aus, die andere Nutzer bedrohen. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 003","message":"Benutzer [###] missbraucht WhatsApp-Funktionen für schädliche Zwecke. Sofortige Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 004","message":"Die Nummer [###] zeigt missbräuchliches Verhalten. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 005","message":"Das Konto [###] verletzt Community-Standards und bedroht die Sicherheit. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 006","message":"Die Nummer [###] führt bösartige Aktivitäten durch. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 006","message":"Die Nummer [###] führt bösartige Aktivitäten durch. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 007","message":"Benutzer [###] belästigt und bedroht andere auf WhatsApp. Sofortige dauerhafte Sperrung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 008","message":"Das Konto [###] verstößt wiederholt und missbraucht Funktionen. Dringende Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 009","message":"Die Nummer [###] verletzt ernsthaft WhatsApp-Richtlinien. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 010","message":"Das Konto [###] verursacht Störungen und verletzt Richtlinien. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 200","message":"Das Konto [###] verstößt wiederholt und missbraucht Funktionen. Dringende Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 201","message":"Die Nummer [###] missbraucht WhatsApp wiederholt und belästigt andere Nutzer. Sofortige dauerhafte Sperrung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 202","message":"Das Konto [###] führt gefährliche Aktivitäten aus, die andere Nutzer bedrohen. Dringende Durchsetzung notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 203","message":"Benutzer [###] missbraucht Funktionen für schädliche Zwecke. Sofortige Sperre beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 204","message":"Die Nummer [###] zeigt belästigendes und störendes Verhalten. Sofortige Sperrung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 205","message":"Das Konto [###] verletzt wiederholt Community-Standards und bedroht die Sicherheit. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 206","message":"Die Nummer [###] führt bösartige oder betrügerische Aktivitäten durch. Sofortige Durchsetzung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 207","message":"Benutzer [###] belästigt und bedroht andere WhatsApp-Nutzer. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 208","message":"Das Konto [###] verstößt wiederholt gegen Regeln und missbraucht Funktionen. Dringende Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 209","message":"Die Nummer [###] verursacht ernsthafte Störungen im WhatsApp-Netzwerk. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 210","message":"Das Konto [###] stört die Kommunikation und verletzt Richtlinien. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 211","message":"Benutzer [###] führt schädliche Aktionen aus. Dringende Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 212","message":"Die Nummer [###] missbraucht WhatsApp-Funktionen und gefährdet die Community. Sofortige Sperre notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 213","message":"Das Konto [###] zeigt wiederholte Verstöße und belästigendes Verhalten. Dringende Sperrung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 214","message":"Benutzer [###] betreibt gefährliche Aktivitäten. Sofortige permanente Sperre benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 215","message":"Die Nummer [###] verstößt wiederholt gegen Regeln und bedroht Nutzer. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 216","message":"Das Konto [###] missbraucht WhatsApp-Funktionen. Sofortige Sperre beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 217","message":"Benutzer [###] führt bösartige Aktionen durch. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 218","message":"Die Nummer [###] verletzt WhatsApp-Richtlinien und bedroht andere. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 219","message":"Das Konto [###] zeigt wiederholte schädliche Aktivitäten. Sofortige Sperrung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 220","message":"Benutzer [###] stört ernsthaft die Nutzung. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 400","message":"Das Konto [###] verstößt wiederholt gegen Regeln und missbraucht Funktionen. Dringende Sperrung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 401","message":"Die Nummer [###] belästigt Nutzer wiederholt und missbraucht WhatsApp-Funktionen. Sofortige dauerhafte Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 402","message":"Das Konto [###] führt gefährliche oder betrügerische Aktivitäten aus. Dringende Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 403","message":"Benutzer [###] missbraucht WhatsApp für schädliche Zwecke. Sofortige Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 404","message":"Die Nummer [###] zeigt störendes und belästigendes Verhalten. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 405","message":"Das Konto [###] verletzt wiederholt Community-Standards und bedroht Nutzer. Dringende Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 406","message":"Die Nummer [###] betreibt bösartige Aktivitäten. Sofortige Durchsetzung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 407","message":"Benutzer [###] belästigt andere Nutzer ernsthaft. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 408","message":"Das Konto [###] zeigt wiederholte Verstöße. Dringende Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 409","message":"Die Nummer [###] gefährdet andere Nutzer und stört den WhatsApp-Verkehr. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 410","message":"Das Konto [###] verletzt Regeln und stört Kommunikation. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 411","message":"Benutzer [###] führt schädliche Aktionen durch. Dringende Durchsetzung notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 412","message":"Die Nummer [###] missbraucht Funktionen und gefährdet die Community. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 413","message":"Das Konto [###] zeigt wiederholte Verstöße und belästigendes Verhalten. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 414","message":"Benutzer [###] betreibt gefährliche Aktivitäten. Sofortige permanente Sperre notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 415","message":"Die Nummer [###] verstößt mehrfach gegen Regeln und bedroht Nutzer. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 416","message":"Das Konto [###] missbraucht WhatsApp-Funktionen. Sofortige Sperre beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 417","message":"Benutzer [###] führt bösartige Aktionen aus. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 418","message":"Die Nummer [###] verletzt WhatsApp-Richtlinien und gefährdet andere Nutzer. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 419","message":"Das Konto [###] zeigt wiederholte schädliche Aktivitäten. Sofortige Sperrung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 420","message":"Benutzer [###] stört ernsthaft die Nutzung. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 600","message":"Das Konto [###] missbraucht wiederholt WhatsApp-Funktionen und belästigt Nutzer. Dringende Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 601","message":"Die Nummer [###] belästigt Nutzer wiederholt und missbraucht WhatsApp-Funktionen. Sofortige dauerhafte Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 602","message":"Das Konto [###] führt gefährliche oder betrügerische Aktivitäten aus. Dringende Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 603","message":"Benutzer [###] missbraucht WhatsApp für schädliche Zwecke. Sofortige Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 604","message":"Die Nummer [###] zeigt störendes und belästigendes Verhalten. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 605","message":"Das Konto [###] verletzt wiederholt Community-Standards und bedroht Nutzer. Dringende Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 606","message":"Die Nummer [###] betreibt bösartige Aktivitäten. Sofortige Durchsetzung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 607","message":"Benutzer [###] belästigt andere Nutzer ernsthaft. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 608","message":"Das Konto [###] zeigt wiederholte Verstöße. Dringende Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 609","message":"Die Nummer [###] gefährdet andere Nutzer und stört den WhatsApp-Verkehr. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 610","message":"Das Konto [###] verletzt Regeln und stört Kommunikation. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 611","message":"Benutzer [###] führt schädliche Aktionen durch. Dringende Durchsetzung notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 612","message":"Die Nummer [###] missbraucht Funktionen und gefährdet die Community. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 613","message":"Das Konto [###] zeigt wiederholte Verstöße und belästigendes Verhalten. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 614","message":"Benutzer [###] betreibt gefährliche Aktivitäten. Sofortige permanente Sperre notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 615","message":"Die Nummer [###] verstößt mehrfach gegen Regeln und bedroht Nutzer. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 616","message":"Das Konto [###] missbraucht WhatsApp-Funktionen. Sofortige Sperre beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 617","message":"Benutzer [###] führt bösartige Aktionen aus. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 618","message":"Die Nummer [###] verletzt WhatsApp-Richtlinien und gefährdet andere Nutzer. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 619","message":"Das Konto [###] zeigt wiederholte schädliche Aktivitäten. Sofortige Sperrung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 620","message":"Benutzer [###] stört ernsthaft die Nutzung. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 800","message":"Das Konto [###] missbraucht wiederholt WhatsApp-Funktionen und belästigt Nutzer. Dringende Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 801","message":"Die Nummer [###] belästigt Nutzer wiederholt und missbraucht WhatsApp-Funktionen. Sofortige dauerhafte Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 802","message":"Das Konto [###] führt gefährliche oder betrügerische Aktivitäten aus. Dringende Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 803","message":"Benutzer [###] missbraucht WhatsApp für schädliche Zwecke. Sofortige Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 804","message":"Die Nummer [###] zeigt störendes und belästigendes Verhalten. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 805","message":"Das Konto [###] verletzt wiederholt Community-Standards und bedroht Nutzer. Dringende Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 806","message":"Die Nummer [###] betreibt bösartige Aktivitäten. Sofortige Durchsetzung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 807","message":"Benutzer [###] belästigt andere Nutzer ernsthaft. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 808","message":"Das Konto [###] zeigt wiederholte Verstöße. Dringende Sperrung beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 809","message":"Die Nummer [###] gefährdet andere Nutzer und stört den WhatsApp-Verkehr. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 810","message":"Das Konto [###] verletzt Regeln und stört Kommunikation. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 811","message":"Benutzer [###] führt schädliche Aktionen durch. Dringende Durchsetzung notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 812","message":"Die Nummer [###] missbraucht Funktionen und gefährdet die Community. Sofortige Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 813","message":"Das Konto [###] zeigt wiederholte Verstöße und belästigendes Verhalten. Sofortige Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 814","message":"Benutzer [###] betreibt gefährliche Aktivitäten. Sofortige permanente Sperre notwendig."},
+{"subject":"DRINGEND: Richtlinienverstoß 815","message":"Die Nummer [###] verstößt mehrfach gegen Regeln und bedroht Nutzer. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 816","message":"Das Konto [###] missbraucht WhatsApp-Funktionen. Sofortige Sperre beantragt."},
+{"subject":"DRINGEND: Richtlinienverstoß 817","message":"Benutzer [###] führt bösartige Aktionen aus. Sofortige permanente Sperre erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 818","message":"Die Nummer [###] verletzt WhatsApp-Richtlinien und gefährdet andere Nutzer. Dringende Maßnahmen erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 819","message":"Das Konto [###] zeigt wiederholte schädliche Aktivitäten. Sofortige Sperrung benötigt."},
+{"subject":"DRINGEND: Richtlinienverstoß 820","message":"Benutzer [###] stört ernsthaft die Nutzung. Sofortige Durchsetzung erforderlich."},
+{"subject":"DRINGEND: Richtlinienverstoß 1000","message":"Das Konto [###] missbraucht wiederholt WhatsApp-Funktionen und belästigt Nutzer. Dringende Sperre erforderlich."},
+  {
+    "subject": "إبلاغ عن استخدام حساب مخالف",
+    "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+  },
+  {
+    "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+    "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+  },
+  {
+    "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+    "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن اختراق الحسابات",
+    "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+  },
+  {
+    "subject": "إبلاغ عن انتحال شخصية",
+    "message": "مرحبًا، الرقم [###] انتحل شخصية مستخدم آخر على الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب رسائل مزعجة",
+    "message": "السلام عليكم، الرقم [###] قام بإرسال رسائل مزعجة للمستخدمين على الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+  },
+  {
+    "subject": "إبلاغ عن إرسال روابط ضارة",
+    "message": "مرحبًا، الرقم [###] قام بإرسال روابط ضارة عبر الواتساب. نرجو حظر الحساب فورًا."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب التهديدات",
+    "message": "السلام عليكم، الرقم [###] أرسل تهديدات للمستخدمين عبر الواتساب. نرجو حظر الحساب بسبب هذا التصرف."
+  },
+  {
+    "subject": "إبلاغ عن حساب يروج للمحتوى المرفوض",
+    "message": "مرحبًا، الرقم [###] يقوم بالترويج للمحتوى المرفوض عبر الواتساب. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب الانتهاكات المتكررة",
+    "message": "السلام عليكم، الرقم [###] ارتكب عدة مخالفات في استخدام الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات المتكررة."
+  },
+  {
+    "subject": "إبلاغ عن استخدام حساب لأغراض غير قانونية",
+    "message": "مرحبًا، الرقم [###] يستخدم الواتساب لأغراض غير قانونية. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب نشر معلومات خاطئة",
+    "message": "السلام عليكم، الرقم [###] نشر معلومات خاطئة عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن انتهاك سياسة الخصوصية",
+    "message": "مرحبًا، الرقم [###] انتهك سياسة الخصوصية الخاصة بالواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب رسائل دعائية غير مرغوب فيها",
+    "message": "السلام عليكم، الرقم [###] قام بإرسال رسائل دعائية غير مرغوب فيها عبر الواتساب. نرجو حظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن استخدام الواتساب للترويج لمنتجات غير قانونية",
+    "message": "مرحبًا، الرقم [###] يستخدم الواتساب للترويج لمنتجات غير قانونية. نرجو حظر الحساب."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب سوء استخدام الواتساب",
+    "message": "السلام عليكم، الرقم [###] أساء استخدام الواتساب بطرق مخالفة. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن نشر محتوى مخل بالآداب",
+    "message": "مرحبًا، الرقم [###] نشر محتوى مخل بالآداب عبر الواتساب. نرجو حظر الحساب فورًا."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب إرسال محتوى غير لائق",
+    "message": "السلام عليكم، الرقم [###] أرسل محتوى غير لائق عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن استخدام الواتساب لنشر إشاعات",
+    "message": "مرحبًا، الرقم [###] يستخدم الواتساب لنشر إشاعات. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب إساءة الاستخدام المتكررة",
+    "message": "السلام عليكم، الرقم [###] أساء استخدام الواتساب بشكل متكرر. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب انتهاك شروط الخدمة",
+    "message": "السلام عليكم، نود أن نلفت انتباهكم إلى أن الرقم [###] قام بانتهاك شروط الخدمة الخاصة بكم من خلال [وصف الانتهاك]. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب بناءً على هذه المخالفات. شكرًا لتعاونكم."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب الأنشطة المخالفة",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بأنشطة مخالفة لسياسات الاستخدام الخاصة بكم، نرجو حظر الحساب في أقرب وقت ممكن لتفادي المزيد من الانتهاكات."
+  },
+  {
+    "subject": "إبلاغ عن انتهاك شروط الخدمة",
+    "message": "السلام عليكم، نرغب في إبلاغكم بأن الرقم [###] انتهك شروط وأحكام الاستخدام الخاصة بكم، يرجى اتخاذ الإجراءات اللازمة لإيقاف الحساب بشكل نهائي."
+  },
+  {
+    "subject": "انتهاك لسياسات الاستخدام – طلب حظر",
+    "message": "عزيزي فريق الدعم، الرقم [###] خالف بشكل واضح السياسات المتعلقة باستخدام الخدمة، نرجو منكم اتخاذ إجراءات حظر الحساب بناءً على ذلك."
+  },
+  {
+    "subject": "طلب حظر رقم بسبب السلوك المخالف",
+    "message": "مرحبًا، الرقم [###] قد ارتكب تصرفات تتناقض مع سياسات الخدمة الخاصة بكم، نرجو حظر الحساب بسبب هذا السلوك."
+  },
+  {
+    "subject": "إجراء حظر لرقم مخالف",
+    "message": "السلام عليكم، الرقم [###] قد خالف شروط الخدمة الخاصة بكم، يرجى حظر الحساب وفقًا للسياسات المتبعة."
+  },
+  {
+    "subject": "إبلاغ عن مخالفات شديدة – طلب حظر",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بارتكاب مخالفات شديدة تتعلق بسياسات الاستخدام الخاصة بكم، نرجو اتخاذ الإجراءات المناسبة لحظر الحساب فورًا."
+  },
+  {
+    "subject": "طلب حظر حساب لانتهاك السياسة",
+    "message": "مرحبًا، الرقم [###] انتهك سياسة الاستخدام الخاصة بكم بشكل متكرر. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب في أسرع وقت."
+  },
+  {
+    "subject": "انتهاك لسياسة الاستخدام – طلب إجراء حظر",
+    "message": "السلام عليكم، الرقم [###] انتهك سياسة الاستخدام الخاصة بكم، ونطلب منكم حظر الحساب نتيجة لهذا الانتهاك."
+  },
+  {
+    "subject": "طلب حظر لرقم بسبب مخالفات متكررة",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بمخالفة شروط الاستخدام عدة مرات، نرجو منكم اتخاذ القرار بحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب خرق القوانين",
+    "message": "السلام عليكم، نود إبلاغكم أن الرقم [###] خالف القوانين الخاصة بالخدمة. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب وفقًا لشروط الخدمة."
+  },
+    {
+    "subject": "إبلاغ عن إساءة استخدام الحساب",
+    "message": "مرحبًا، الرقم [###] ارتكب تصرفات مسيئة تتناقض مع سياسات الخدمة، ونطلب اتخاذ الإجراءات المناسبة لإيقاف الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب الأنشطة المشبوهة",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بأنشطة مشبوهة تتعارض مع القوانين، نرجو منكم اتخاذ القرار المناسب لحظر الحساب."
+  },
+  {
+    "subject": "انتهاك صارخ للقوانين – طلب إغلاق الحساب",
+    "message": "السلام عليكم، الرقم [###] قام بانتهاك صارخ للقوانين والشروط الخاصة بالخدمة، يرجى إغلاق الحساب فورًا."
+  },
+  {
+    "subject": "تحذير بشأن خرق الشروط – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] خالف شروط الاستخدام الخاصة بالخدمة. نرجو منكم اتخاذ الإجراءات لحظر الحساب."
+  },
+  {
+    "subject": "طلب إجراء حظر بسبب التصرفات المسيئة",
+    "message": "عزيزي فريق الدعم، الرقم [###] تصرف بطريقة مسيئة في الخدمة، نطلب حظر الحساب بناءً على هذه التصرفات."
+  },
+  {
+    "subject": "إبلاغ عن مخالفة جسيمة – طلب حظر فوري",
+    "message": "السلام عليكم، الرقم [###] ارتكب مخالفة جسيمة ضد سياسات الاستخدام الخاصة بكم. نرجو منكم اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر رقم بسبب التلاعب بالبيانات",
+    "message": "مرحبًا، الرقم [###] قام بالتلاعب بالبيانات بشكل مخالف لسياسات الخدمة. نرجو منكم حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "انتهاك لسياسات الأمان – طلب حظر الحساب",
+    "message": "السلام عليكم، الرقم [###] انتهك سياسات الأمان الخاصة بالخدمة. نرجو منكم اتخاذ إجراءات حظر الحساب بشكل فوري."
+  },
+  {
+    "subject": "طلب حظر بسبب التسجيل المزيف",
+    "message": "مرحبًا، الرقم [###] قام بالتسجيل بحساب مزيف مما يخالف شروط الاستخدام. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب الأفعال العدوانية",
+    "message": "السلام عليكم، الرقم [###] ارتكب أفعال عدوانية تنتهك سياسات الخدمة. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن استخدام غير لائق – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] استخدم الخدمة بشكل غير لائق، نرجو منكم اتخاذ القرار بحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب التواصل غير المناسب",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بالتواصل بشكل غير مناسب مع الآخرين. نرجو اتخاذ الإجراءات لحظر الحساب."
+  },
+  {
+    "subject": "انتهاك سياسة الخصوصية – طلب حظر الحساب",
+    "message": "السلام عليكم، الرقم [###] انتهك سياسة الخصوصية الخاصة بالخدمة. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب النشاطات الاحتيالية",
+    "message": "مرحبًا، الرقم [###] قام بنشاطات احتيالية تتناقض مع سياسات الاستخدام. نرجو منكم حظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن اختراق حساب – طلب حظر",
+    "message": "السلام عليكم، الرقم [###] قام بمحاولة اختراق حسابات أخرى، نطلب اتخاذ إجراءات حظر فورية."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام أدوات غير قانونية",
+    "message": "مرحبًا، الرقم [###] استخدم أدوات غير قانونية أثناء استخدام الخدمة. نرجو منكم اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب التلاعب بالأنظمة",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بالتلاعب في أنظمة الخدمة، نرجو منكم اتخاذ إجراءات حظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن سلوك غير أخلاقي – طلب حظر الحساب",
+    "message": "السلام عليكم، الرقم [###] قام بسلوك غير أخلاقي خلال استخدام الخدمة. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام مزيف للبيانات",
+    "message": "مرحبًا، الرقم [###] استخدم بيانات مزيفة أثناء التسجيل. نرجو اتخاذ الإجراءات لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب مخالفة سياسات اللعبة",
+    "message": "السلام عليكم، الرقم [###] قام بمخالفة سياسات اللعبة من خلال [وصف الانتهاك]. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن استخدام غير لائق للمحتوى",
+    "message": "مرحبًا، الرقم [###] استخدم المحتوى بشكل غير لائق مما ينتهك شروط الخدمة. نطلب منكم حظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام برامج غير مرخصة",
+    "message": "عزيزي فريق الدعم، الرقم [###] استخدم برامج غير مرخصة مع الخدمة. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "انتهاك لحقوق الملكية – طلب حظر الحساب",
+    "message": "السلام عليكم، الرقم [###] قام بانتهاك حقوق الملكية الفكرية من خلال [وصف الانتهاك]. نرجو اتخاذ الإجراءات لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب سلوك مشبوه",
+    "message": "مرحبًا، الرقم [###] أظهر سلوكًا مشبوهًا أثناء استخدام الخدمة. نرجو حظر الحساب بناءً على ذلك."
+  },
+  {
+    "subject": "إبلاغ عن تلاعب في اللعبة – طلب حظر الحساب",
+    "message": "السلام عليكم، الرقم [###] قام بتلاعب في اللعبة، نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب خرق الأمان",
+    "message": "مرحبًا، الرقم [###] قام بخرق سياسات الأمان الخاصة بالخدمة. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن محاولات غش – طلب حظر الحساب",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بمحاولات غش أثناء اللعب. نرجو حظر الحساب بسبب هذه الأنشطة المخالفة."
+  },
+  {
+    "subject": "طلب حظر بسبب تصرفات غير لائقة",
+    "message": "السلام عليكم، الرقم [###] تصرف بطريقة غير لائقة أثناء استخدام الخدمة. نرجو اتخاذ الإجراءات لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن انتهاك لقواعد السلوك",
+    "message": "مرحبًا، الرقم [###] خالف قواعد السلوك الخاصة بالخدمة. نرجو منكم حظر الحساب بناءً على ذلك."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام حسابات مزورة",
+    "message": "السلام عليكم، الرقم [###] قام باستخدام حساب مزور مما يخالف شروط الاستخدام. نرجو حظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب التصرفات العدوانية",
+    "message": "مرحبًا، الرقم [###] تصرف بعدوانية في الخدمة، نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "انتهاك لسياسات الأمان – طلب حظر فوري",
+    "message": "عزيزي فريق الدعم، الرقم [###] انتهك سياسات الأمان الخاصة بالخدمة. نرجو منكم حظر الحساب فورًا."
+  },
+  {
+    "subject": "طلب حظر بسبب السلوك المشين",
+    "message": "السلام عليكم، الرقم [###] قام بسلوك مشين خلال استخدام الخدمة. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن اختراق النظام – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] قام بمحاولة اختراق النظام، نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب خرق سياسة الاستخدام",
+    "message": "السلام عليكم، الرقم [###] انتهك سياسة الاستخدام الخاصة بالخدمة. نرجو اتخاذ الإجراءات لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن تعديلات غير مصرح بها",
+    "message": "مرحبًا، الرقم [###] قام بتعديل أو تغيير إعدادات غير مصرح بها، نرجو حظر الحساب بناءً على هذه الانتهاكات."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام برامج مساعدة غير قانونية",
+    "message": "السلام عليكم، الرقم [###] استخدم برامج مساعدة غير قانونية. نرجو حظر الحساب وفقًا للسياسات المتبعة."
+  },
+  {
+    "subject": "إبلاغ عن خرق للخصوصية – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] قام بخرق خصوصية المستخدمين الآخرين. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام لغة مسيئة",
+    "message": "السلام عليكم، الرقم [###] استخدم لغة مسيئة أثناء التفاعل مع الآخرين. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن استخدام غير قانوني للأدوات",
+    "message": "مرحبًا، الرقم [###] استخدم أدوات غير قانونية أثناء اللعب. نرجو حظر الحساب وفقًا لقواعد الخدمة."
+  },
+  {
+    "subject": "طلب حظر بسبب التلاعب في نتائج اللعبة",
+    "message": "السلام عليكم، الرقم [###] قام بالتلاعب في نتائج اللعبة. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن سلوك غير مهذب – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] تصرف بطريقة غير مهذبة خلال اللعبة. نرجو حظر الحساب بسبب هذا السلوك."
+  },
+  {
+    "subject": "طلب حظر بسبب نشر معلومات خاطئة",
+    "message": "السلام عليكم، الرقم [###] نشر معلومات خاطئة في المنتدى/اللعبة. نرجو منكم اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن تعمد تعطيل اللعبة – طلب حظر الحساب",
+    "message": "عزيزي فريق الدعم، الرقم [###] قام بتعمد تعطيل اللعبة. نرجو حظر الحساب بسبب هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر بسبب التهديدات للمستخدمين الآخرين",
+    "message": "السلام عليكم، الرقم [###] قام بتهديد المستخدمين الآخرين. نرجو حظر الحساب بناءً على هذه التصرفات."
+  },
+  {
+    "subject": "إبلاغ عن محاولات خداع اللاعبين – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] حاول خداع اللاعبين الآخرين خلال اللعبة. نرجو حظر الحساب فورًا."
+  },
+  {
+    "subject": "طلب حظر بسبب التلاعب بالترتيب العام",
+    "message": "السلام عليكم، الرقم [###] قام بتلاعب في ترتيب اللاعبين. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن خرق لحقوق النشر – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] انتهك حقوق النشر المتعلقة بالمحتوى. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب التكرار المستمر للمخالفات",
+    "message": "السلام عليكم، الرقم [###] قام بتكرار المخالفات عدة مرات. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن انتهاك لسياسة الاستخدام",
+    "message": "مرحبًا، الرقم [###] انتهك سياسة الاستخدام الخاصة بالخدمة. نرجو منكم حظر الحساب بناءً على هذا الانتهاك."
+  },
+  {
+    "subject": "طلب حظر بسبب استخدام حسابات مزيفة متعددة",
+    "message": "السلام عليكم، الرقم [###] قام باستخدام حسابات مزيفة متعددة. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن تهديدات باستخدام حساب آخر – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] قام بتهديدات باستخدام حساب آخر. نرجو منكم حظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب هجمات مستمرة على النظام",
+    "message": "السلام عليكم، الرقم [###] قام بهجمات مستمرة على النظام. نرجو حظر الحساب وفقًا للسياسات."
+  },
+  {
+    "subject": "إبلاغ عن انتهاك للسياسات الأمنية – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] انتهك سياسات الأمان الخاصة بالخدمة. نرجو حظر الحساب بناءً على هذه المخالفات."
+  },
+  {
+    "subject": "طلب حظر بسبب أنشطة خبيثة",
+    "message": "السلام عليكم، الرقم [###] قام بأنشطة خبيثة من خلال استخدام الخدمة. نرجو حظر الحساب وفقًا للسياسات المتبعة."
+  },
+  {
+    "subject": "إبلاغ عن إساءة استخدام الموارد – طلب حظر الحساب",
+    "message": "مرحبًا، الرقم [###] أساء استخدام الموارد المقدمة من الخدمة. نرجو منكم اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر بسبب مخالفات متكررة",
+    "message": "السلام عليكم، الرقم [###] ارتكب مخالفات متكررة. نرجو اتخاذ الإجراءات المناسبة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب نشر محتوى ضار",
+    "message": "السلام عليكم، الرقم [###] نشر محتوى ضار على الواتساب. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "إبلاغ عن حساب يرسل رسائل غير مرغوب فيها",
+    "message": "مرحبًا، الرقم [###] يقوم بإرسال رسائل غير مرغوب فيها للمستخدمين على الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب انتهاك حقوق الملكية الفكرية",
+    "message": "السلام عليكم، الرقم [###] انتهك حقوق الملكية الفكرية عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يروج لمحتوى مزيف",
+    "message": "مرحبًا، الرقم [###] يروج لمحتوى مزيف على الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب التلاعب بالمعلومات",
+    "message": "السلام عليكم، الرقم [###] قام بتلاعب بالمعلومات الشخصية للمستخدمين عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يرسل تهديدات لأفراد آخرين",
+    "message": "مرحبًا، الرقم [###] قام بإرسال تهديدات لأفراد آخرين عبر الواتساب. نرجو حظر الحساب بشكل فوري."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب الإزعاج المستمر",
+    "message": "السلام عليكم، الرقم [###] قام بإزعاج المستخدمين بشكل مستمر على الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يشارك محتوى مسيء",
+    "message": "مرحبًا، الرقم [###] يشارك محتوى مسيء عبر الواتساب. نرجو حظر الحساب بشكل نهائي."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب انتهاك سياسة الاستخدام المتكررة",
+    "message": "السلام عليكم، الرقم [###] انتهك سياسة الاستخدام بشكل متكرر عبر الواتساب. نرجو حظر الحساب فورًا."
+  },
+  {
+    "subject": "إبلاغ عن حساب يستخدم الواتساب للتلاعب بالآخرين",
+    "message": "مرحبًا، الرقم [###] يستخدم الواتساب للتلاعب بالمستخدمين الآخرين. نرجو حظر الحساب بشكل فوري."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب استخدامه لنشر الأكاذيب",
+    "message": "السلام عليكم، الرقم [###] ينشر أكاذيب عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يروج لأغراض ضارة",
+    "message": "مرحبًا، الرقم [###] يروج لأغراض ضارة عبر الواتساب. نرجو حظر الحساب بشكل نهائي."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب الاستخدام غير الشرعي",
+    "message": "السلام عليكم، الرقم [###] قام باستخدام الواتساب بطرق غير شرعية. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يسبب مشاكل قانونية",
+    "message": "مرحبًا، الرقم [###] يسبب مشاكل قانونية عبر الواتساب. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب الإساءة المتكررة",
+    "message": "السلام عليكم، الرقم [###] أساء استخدام الواتساب بشكل متكرر. نرجو حظر الحساب بناءً على هذه المخالفات."
+  },
+  {
+    "subject": "إبلاغ عن حساب يروج للمواد الإباحية",
+    "message": "مرحبًا، الرقم [###] يروج للمواد الإباحية عبر الواتساب. نرجو حظر الحساب بشكل نهائي."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب نشر محتوى يضر بالآخرين",
+    "message": "السلام عليكم، الرقم [###] نشر محتوى يضر بالآخرين على الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يشارك محتوى غير قانوني",
+    "message": "مرحبًا، الرقم [###] يشارك محتوى غير قانوني عبر الواتساب. نرجو حظر الحساب بشكل فوري."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب نشر أخبار كاذبة",
+    "message": "السلام عليكم، الرقم [###] نشر أخبار كاذبة عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يسبب ضررًا للأفراد",
+    "message": "مرحبًا، الرقم [###] يسبب ضررًا للأفراد عبر الواتساب. نرجو اتخاذ الإجراءات اللازمة لحظر الحساب."
+  },
+  {
+    "subject": "طلب حظر حساب بسبب انتهاك الحقوق الشخصية",
+    "message": "السلام عليكم، الرقم [###] انتهك الحقوق الشخصية للمستخدمين عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+  {
+    "subject": "إبلاغ عن حساب يرسل رسائل تحريضية",
+    "message": "مرحبًا، الرقم [###] يرسل رسائل تحريضية عبر الواتساب. نرجو حظر الحساب بناءً على هذه المخالفة."
+  },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+      {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+    {
+        "subject": "إبلاغ عن اختراق الحسابات",
+        "message": "السلام عليكم، الرقم [###] قام باختراق حسابات أخرى على الواتساب. نرجو حظر الحساب بشكل نهائي."
+    },
+    {
+        "subject": "إبلاغ عن استخدام حساب مخالف",
+        "message": "مرحبًا، الرقم [###] يقوم بأنشطة مخالفة لسياسات استخدام الواتساب. نرجو حظر الحساب بأسرع وقت ممكن."
+    },
+    {
+        "subject": "إبلاغ عن حظر رقم بسبب التصرفات المخالفة",
+        "message": "السلام عليكم، الرقم [###] قام بتصرفات مخالفة لسياسات الواتساب. نرجو حظر الحساب بناءً على هذه الانتهاكات."
+    },
+    {
+        "subject": "طلب حظر رقم بسبب الاستخدام غير اللائق",
+        "message": "مرحبًا، الرقم [###] قام باستخدام الواتساب بطرق غير لائقة. نرجو حظر الحساب بناءً على هذه المخالفة."
+    },
+        {
+        "subject": "Informe de uso indebido de cuenta",
+        "message": "Hola, el número [###] está realizando actividades que violan las políticas de uso de WhatsApp. Por favor, bloquee la cuenta lo antes posible."
+    },
+    {
+        "subject": "Solicitud de bloqueo de cuenta",
+        "message": "Estimados, el número [###] ha estado enviando mensajes ofensivos. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Denuncia de acoso",
+        "message": "Hola, el número [###] me está acosando a través de mensajes. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Uso indebido del servicio",
+        "message": "Hola, el número [###] está utilizando WhatsApp para actividades ilegales. Por favor, actúen al respecto."
+    },
+    {
+        "subject": "Spam y mensajes no solicitados",
+        "message": "Estimados, el número [###] me está enviando spam. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Denuncia de fraude",
+        "message": "Hola, el número [###] está intentando estafarme. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Violación de privacidad",
+        "message": "Hola, el número [###] ha compartido información personal sin mi consentimiento. Por favor, tomen medidas."
+    },
+    {
+        "subject": "Contenido inapropiado",
+        "message": "Estimados, el número [###] está compartiendo contenido inapropiado en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Mensajes amenazantes",
+        "message": "Hola, el número [###] me ha enviado mensajes amenazantes. Necesito que se tomen acciones inmediatas."
+    },
+    {
+        "subject": "Suplantación de identidad",
+        "message": "Hola, el número [###] está suplantando mi identidad. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Uso indebido de grupos",
+        "message": "Estimados, el número [###] está abusando de los grupos en WhatsApp. Solicito su eliminación de estos grupos."
+    },
+    {
+        "subject": "Acoso cibernético",
+        "message": "Hola, el número [###] me está acosando cibernéticamente. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes ofensivos",
+        "message": "Estimados, el número [###] ha enviado mensajes ofensivos. Solicito que se tomen medidas contra esta cuenta."
+    },
+    {
+        "subject": "Difusión de rumores falsos",
+        "message": "Hola, el número [###] está difundiendo rumores falsos sobre mí. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Bloqueo por incumplimiento",
+        "message": "Estimados, el número [###] ha incumplido las normas de la comunidad. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Solicito protección contra acoso",
+        "message": "Hola, el número [###] me está acosando constantemente. Solicito su ayuda para protegerme."
+    },
+    {
+        "subject": "Denuncia por mensajes no deseados",
+        "message": "Estimados, el número [###] me está enviando mensajes no deseados. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Comportamiento sospechoso",
+        "message": "Hola, he notado un comportamiento sospechoso del número [###]. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Incitación al odio",
+        "message": "Estimados, el número [###] está incitando al odio en los grupos. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Difusión de contenido violento",
+        "message": "Hola, el número [###] está compartiendo contenido violento. Necesito que se tomen medidas al respecto."
+    },
+    {
+        "subject": "Uso de lenguaje vulgar",
+        "message": "Estimados, el número [###] está utilizando un lenguaje vulgar en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Estafas a través de WhatsApp",
+                "message": "Hola, el número [###] intenta estafarme a través de mensajes. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Solicito cierre de cuenta",
+        "message": "Estimados, solicito el cierre inmediato de la cuenta del número [###] por actividades ilegales."
+    },
+    {
+        "subject": "Acoso sexual en línea",
+        "message": "Hola, el número [###] me está acosando sexualmente en línea. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Invasión de privacidad",
+        "message": "Estimados, el número [###] ha invadido mi privacidad al compartir mis datos sin autorización. Solicito acción."
+    },
+    {
+        "subject": "Denuncia de amenazas",
+        "message": "Hola, he recibido amenazas del número [###]. Solicito que se investigue y tome acción."
+    },
+    {
+        "subject": "Contenido engañoso",
+        "message": "Estimados, el número [###] está compartiendo contenido engañoso y perjudicial. Solicito su bloqueo."
+    },
+    {
+        "subject": "Solicito asistencia urgente",
+        "message": "Hola, necesito asistencia urgente debido al comportamiento del número [###]."
+    },
+    {
+        "subject": "Uso indebido de grupos privados",
+        "message": "Estimados, el número [###] está abusando de su acceso a grupos privados. Solicito su eliminación."
+    },
+    {
+        "subject": "Comportamiento hostil",
+        "message": "Hola, el número [###] ha mostrado un comportamiento hostil hacia mí en los chats. Necesito ayuda."
+    },
+    {
+        "subject": "Difamación en línea",
+        "message": "Estimados, el número [###] me está difamando en línea. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito bloqueo inmediato",
+        "message": "Hola, solicito el bloqueo inmediato del número [###] por acoso constante."
+    },
+    {
+        "subject": "Violación de las normas comunitarias",
+        "message": "Estimados, el número [###] ha violado las normas comunitarias repetidamente. Solicito su bloqueo."
+    },
+    {
+        "subject": "Mensajes perturbadores",
+        "message": "Hola, he recibido mensajes perturbadores del número [###]. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso persistente",
+        "message": "[###] me está acosando persistentemente a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Solicito investigación sobre abuso",
+        "message": "[###] ha estado abusando del servicio de WhatsApp para hostigarme. Necesito una investigación."
+    },
+    {
+        "subject": "Acoso constante",
+        "message": "Hola, el número [###] me está acosando constantemente. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Mensajes amenazantes",
+        "message": "Estimados, he recibido mensajes amenazantes del número [###]. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Spam en grupos",
+        "message": "Hola, el número [###] está enviando spam en los grupos de WhatsApp. Solicito su eliminación."
+    },
+    {
+        "subject": "Suplantación de identidad",
+        "message": "Hola, el número [###] está suplantando mi identidad en línea. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Contenido inapropiado compartido",
+        "message": "Estimados, el número [###] ha compartido contenido inapropiado en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Difusión de rumores falsos",
+        "message": "Hola, el número [###] está difundiendo rumores falsos sobre mí. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Uso indebido de la plataforma",
+        "message": "Estimados, el número [###] está utilizando WhatsApp para actividades ilegales. Solicito su bloqueo."
+    },
+    {
+        "subject": "Acoso cibernético",
+        "message": "Hola, el número [###] me está acosando cibernéticamente. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes ofensivos recibidos",
+        "message": "Estimados, he recibido mensajes ofensivos del número [###]. Solicito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Incitación al odio",
+        "message": "Hola, el número [###] está incitando al odio en los grupos de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Acoso sexual en línea",
+        "message": "Hola, el número [###] me está acosando sexualmente a través de WhatsApp. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Uso de lenguaje vulgar",
+        "message": "Estimados, el número [###] ha utilizado un lenguaje vulgar en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Estafas en WhatsApp",
+        "message": "Hola, el número [###] intenta estafarme a través de mensajes. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Solicito cierre de cuenta",
+        "message": "Estimados, solicito el cierre inmediato de la cuenta del número [###] por actividades ilegales."
+    },
+    {
+        "subject": "Comportamiento hostil",
+        "message": "[###] ha mostrado un comportamiento hostil hacia mí en los chats. Necesito ayuda."
+    },
+    {
+        "subject": "Informe de uso indebido de cuenta",
+        "message": "Hola, el número [###] está realizando actividades que violan las políticas de uso de WhatsApp. Por favor, bloquee la cuenta lo antes posible."
+    },
+    {
+        "subject": "Solicitud de bloqueo de cuenta",
+        "message": "Estimados, el número [###] ha estado enviando mensajes ofensivos. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Denuncia de acoso",
+        "message": "Hola, el número [###] me está acosando a través de mensajes. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Uso indebido del servicio",
+        "message": "Hola, el número [###] está utilizando WhatsApp para actividades ilegales. Por favor, actúen al respecto."
+    },
+    {
+        "subject": "Spam y mensajes no solicitados",
+        "message": "Estimados, el número [###] me está enviando spam. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Denuncia de fraude",
+        "message": "Hola, el número [###] está intentando estafarme. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Violación de privacidad",
+        "message": "Hola, el número [###] ha compartido información personal sin mi consentimiento. Por favor, tomen medidas."
+    },
+    {
+        "subject": "Contenido inapropiado",
+        "message": "Estimados, el número [###] está compartiendo contenido inapropiado en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Mensajes amenazantes",
+        "message": "Hola, el número [###] me ha enviado mensajes amenazantes. Necesito que se tomen acciones inmediatas."
+    },
+    {
+        "subject": "Suplantación de identidad",
+        "message": "Hola, el número [###] está suplantando mi identidad. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Uso indebido de grupos",
+        "message": "Estimados, el número [###] está abusando de los grupos en WhatsApp. Solicito su eliminación de estos grupos."
+    },
+    {
+        "subject": "Acoso cibernético",
+        "message": "Hola, el número [###] me está acosando cibernéticamente. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes ofensivos",
+        "message": "Estimados, el número [###] ha enviado mensajes ofensivos. Solicito que se tomen medidas contra esta cuenta."
+    },
+    {
+        "subject": "Difusión de rumores falsos",
+        "message": "Hola, el número [###] está difundiendo rumores falsos sobre mí. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Bloqueo por incumplimiento",
+        "message": "Estimados, el número [###] ha incumplido las normas de la comunidad. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Solicito protección contra acoso",
+        "message": "Hola, el número [###] me está acosando constantemente. Solicito su ayuda para protegerme."
+    },
+    {
+        "subject": "Denuncia por mensajes no deseados",
+        "message": "Estimados, el número [###] me está enviando mensajes no deseados. Solicito que se bloquee esta cuenta."
+    },
+    {
+        "subject": "Comportamiento sospechoso",
+        "message": "Hola, he notado un comportamiento sospechoso del número [###]. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Incitación al odio",
+        "message": "Estimados, el número [###] está incitando al odio en los grupos. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Difusión de contenido violento",
+        "message": "Hola, el número [###] está compartiendo contenido violento. Necesito que se tomen medidas al respecto."
+    },
+    {
+        "subject": "Uso de lenguaje vulgar",
+        "message": "Estimados, el número [###] está utilizando un lenguaje vulgar en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Estafas a través de WhatsApp",
+                "message": "Hola, el número [###] intenta estafarme a través de mensajes. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Solicito cierre de cuenta",
+        "message": "Estimados, solicito el cierre inmediato de la cuenta del número [###] por actividades ilegales."
+    },
+    {
+        "subject": "Acoso sexual en línea",
+        "message": "Hola, el número [###] me está acosando sexualmente en línea. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Invasión de privacidad",
+        "message": "Estimados, el número [###] ha invadido mi privacidad al compartir mis datos sin autorización. Solicito acción."
+    },
+    {
+        "subject": "Denuncia de amenazas",
+        "message": "Hola, he recibido amenazas del número [###]. Solicito que se investigue y tome acción."
+    },
+    {
+        "subject": "Contenido engañoso",
+        "message": "Estimados, el número [###] está compartiendo contenido engañoso y perjudicial. Solicito su bloqueo."
+    },
+    {
+        "subject": "Solicito asistencia urgente",
+        "message": "Hola, necesito asistencia urgente debido al comportamiento del número [###]."
+    },
+    {
+        "subject": "Uso indebido de grupos privados",
+        "message": "Estimados, el número [###] está abusando de su acceso a grupos privados. Solicito su eliminación."
+    },
+    {
+        "subject": "Comportamiento hostil",
+        "message": "Hola, el número [###] ha mostrado un comportamiento hostil hacia mí en los chats. Necesito ayuda."
+    },
+    {
+        "subject": "Difamación en línea",
+        "message": "Estimados, el número [###] me está difamando en línea. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito bloqueo inmediato",
+        "message": "Hola, solicito el bloqueo inmediato del número [###] por acoso constante."
+    },
+    {
+        "subject": "Violación de las normas comunitarias",
+        "message": "Estimados, el número [###] ha violado las normas comunitarias repetidamente. Solicito su bloqueo."
+    },
+    {
+        "subject": "Mensajes perturbadores",
+        "message": "Hola, he recibido mensajes perturbadores del número [###]. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso persistente",
+        "message": "[###] me está acosando persistentemente a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Solicito investigación sobre abuso",
+        "message": "[###] ha estado abusando del servicio de WhatsApp para hostigarme. Necesito una investigación."
+    },
+    {
+        "subject": "Acoso constante",
+        "message": "Hola, el número [###] me está acosando constantemente. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Mensajes amenazantes",
+        "message": "Estimados, he recibido mensajes amenazantes del número [###]. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Spam en grupos",
+        "message": "Hola, el número [###] está enviando spam en los grupos de WhatsApp. Solicito su eliminación."
+    },
+    {
+        "subject": "Suplantación de identidad",
+        "message": "Hola, el número [###] está suplantando mi identidad en línea. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Contenido inapropiado compartido",
+        "message": "Estimados, el número [###] ha compartido contenido inapropiado en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Difusión de rumores falsos",
+        "message": "Hola, el número [###] está difundiendo rumores falsos sobre mí. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Uso indebido de la plataforma",
+        "message": "Estimados, el número [###] está utilizando WhatsApp para actividades ilegales. Solicito su bloqueo."
+    },
+    {
+        "subject": "Acoso cibernético",
+        "message": "Hola, el número [###] me está acosando cibernéticamente. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes ofensivos recibidos",
+        "message": "Estimados, he recibido mensajes ofensivos del número [###]. Solicito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Incitación al odio",
+        "message": "Hola, el número [###] está incitando al odio en los grupos de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Acoso sexual en línea",
+        "message": "Hola, el número [###] me está acosando sexualmente a través de WhatsApp. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Uso de lenguaje vulgar",
+        "message": "Estimados, el número [###] ha utilizado un lenguaje vulgar en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Estafas en WhatsApp",
+        "message": "Hola, el número [###] intenta estafarme a través de mensajes. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Solicito cierre de cuenta",
+        "message": "Estimados, solicito el cierre inmediato de la cuenta del número [###] por actividades ilegales."
+    },
+      {
+        "subject": "Comportamiento hostil",
+        "message": "[###] ha mostrado un comportamiento hostil hacia mí en los chats. Necesito ayuda."
+    },
+    {
+        "subject": "Difamación en línea",
+        "message": "[###] me está difamando en línea. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito asistencia urgente",
+        "message": "[###] me está acosando constantemente y necesito asistencia urgente."
+    },
+    {
+        "subject": "Comportamiento sospechoso",
+        "message": "[###] ha mostrado un comportamiento sospechoso en los chats. Solicito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Mensajes perturbadores",
+        "message": "[###] me ha enviado mensajes perturbadores. Necesito que se tomen medidas contra esta cuenta."
+    },
+    {
+        "subject": "Uso indebido de grupos privados",
+        "message": "[###] está abusando de su acceso a grupos privados. Solicito su eliminación."
+    },
+    {
+        "subject": "Denuncia de acoso",
+        "message": "[###] me está acosando a través de mensajes. Solicito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Denuncia por amenazas",
+        "message": "[###] me ha amenazado a través de WhatsApp. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito protección contra acoso",
+        "message": "[###] me está acosando y necesito protección inmediata."
+    },
+    {   
+        "subject": "Contenido engañoso",
+        "message": "[###] está compartiendo contenido engañoso y perjudicial. Solicito su bloqueo."
+    },
+    {
+        "subject": "Difusión de contenido violento",
+        "message": "[###] está compartiendo contenido violento en los chats. Necesito que se tomen medidas al respecto."
+    },
+    {
+        "subject": "Acoso persistente",
+        "message": "[###] me está acosando persistentemente a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Mensajes no deseados",
+        "message": "[###] me está enviando mensajes no deseados y perturbadores. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Comportamiento abusivo en grupos",
+        "message": "[###] está mostrando un comportamiento abusivo en los grupos de WhatsApp. Solicito su eliminación."
+    },
+    {
+        "subject": "Solicito investigación sobre abuso",
+        "message": "[###] ha estado abusando del servicio de WhatsApp para hostigarme. Necesito una investigación."
+    },
+    {
+        "subject": "Difusión de rumores dañinos",
+        "message": "[###] está difundiendo rumores dañinos sobre mí. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Acoso emocional",
+        "message": "[###] me está acosando emocionalmente a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Contenido inapropiado en grupos",
+        "message": "[###] ha compartido contenido inapropiado en un grupo privado. Solicito su eliminación."
+    },
+    {
+        "subject": "Solicito cierre de cuenta por abuso",
+        "message": "[###] ha abusado del servicio y solicito el cierre de su cuenta inmediatamente."
+    },
+    {
+        "subject": "Acoso a través de mensajes directos",
+        "message": "[###] me está acosando a través de mensajes directos. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Acoso constante",
+        "message": "Hola, el número [###] me está acosando constantemente. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Mensajes amenazantes",
+        "message": "Estimados, he recibido mensajes amenazantes del número [###]. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Spam en grupos",
+        "message": "Hola, el número [###] está enviando spam en los grupos de WhatsApp. Solicito su eliminación."
+    },
+    {
+        "subject": "Suplantación de identidad",
+        "message": "Hola, el número [###] está suplantando mi identidad en línea. Necesito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Contenido inapropiado compartido",
+        "message": "Estimados, el número [###] ha compartido contenido inapropiado en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Difusión de rumores falsos",
+        "message": "Hola, el número [###] está difundiendo rumores falsos sobre mí. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Uso indebido de la plataforma",
+        "message": "Estimados, el número [###] está utilizando WhatsApp para actividades ilegales. Solicito su bloqueo."
+    },
+    {
+        "subject": "Acoso cibernético",
+        "message": "Hola, el número [###] me está acosando cibernéticamente. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes ofensivos recibidos",
+        "message": "Estimados, he recibido mensajes ofensivos del número [###]. Solicito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Incitación al odio",
+        "message": "Hola, el número [###] está incitando al odio en los grupos de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Acoso sexual en línea",
+        "message": "Hola, el número [###] me está acosando sexualmente a través de WhatsApp. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Uso de lenguaje vulgar",
+        "message": "Estimados, el número [###] ha utilizado un lenguaje vulgar en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Estafas en WhatsApp",
+        "message": "Hola, el número [###] intenta estafarme a través de mensajes. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Solicito cierre de cuenta",
+        "message": "Estimados, solicito el cierre inmediato de la cuenta del número [###] por actividades ilegales."
+    },
+    {
+        "subject": "Comportamiento hostil",
+        "message": "[###] ha mostrado un comportamiento hostil hacia mí en los chats. Necesito ayuda."
+    },
+    {
+        "subject": "Difamación en línea",
+        "message": "[###] me está difamando en línea. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito asistencia urgente",
+        "message": "[###] me está acosando constantemente y necesito asistencia urgente."
+    },
+    {
+        "subject": "Comportamiento sospechoso",
+        "message": "[###] ha mostrado un comportamiento sospechoso en los chats. Solicito que se investigue esta cuenta."
+    },
+    {
+        "subject": "Mensajes perturbadores",
+        "message": "[###] me ha enviado mensajes perturbadores. Necesito que se tomen medidas contra esta cuenta."
+    },
+    {
+        "subject": "Uso indebido de grupos privados",
+        "message": "[###] está abusando de su acceso a grupos privados. Solicito su eliminación."
+    },
+    {
+        "subject": "Denuncia de acoso",
+        "message": "[###] me está acosando a través de mensajes. Solicito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Denuncia por amenazas",
+        "message": "[###] me ha amenazado a través de WhatsApp. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito protección contra acoso",
+                "message": "[###] me está acosando y necesito protección inmediata."
+    },
+    {
+        "subject": "Contenido engañoso",
+        "message": "[###] está compartiendo contenido engañoso y perjudicial. Solicito su bloqueo."
+    },
+    {
+        "subject": "Difusión de contenido violento",
+        "message": "[###] está compartiendo contenido violento en los chats. Necesito que se tomen medidas al respecto."
+    },
+    {
+        "subject": "Acoso persistente",
+        "message": "[###] me está acosando persistentemente a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Mensajes no deseados",
+        "message": "[###] me está enviando mensajes no deseados y perturbadores. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Comportamiento abusivo en grupos",
+        "message": "[###] está mostrando un comportamiento abusivo en los grupos de WhatsApp. Solicito su eliminación."
+    },
+    {
+        "subject": "Solicito investigación sobre abuso",
+        "message": "[###] ha estado abusando del servicio de WhatsApp para hostigarme. Necesito una investigación."
+    },
+    {
+        "subject": "Difusión de rumores dañinos",
+        "message": "[###] está difundiendo rumores dañinos sobre mí. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Acoso emocional",
+        "message": "[###] me está acosando emocionalmente a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Contenido inapropiado en grupos",
+        "message": "[###] ha compartido contenido inapropiado en un grupo privado. Solicito su eliminación."
+    },
+    {
+        "subject": "Solicito cierre de cuenta por abuso",
+        "message": "[###] ha abusado del servicio y solicito el cierre de su cuenta inmediatamente."
+    },
+    {
+        "subject": "Acoso a través de mensajes directos",
+        "message": "[###] me está acosando a través de mensajes directos. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Fraude en línea",
+        "message": "[###] me ha intentado engañar con un fraude a través de mensajes. Solicito su bloqueo."
+    },
+    {
+        "subject": "Publicación de datos personales",
+        "message": "[###] ha publicado mis datos personales sin mi consentimiento. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Acusaciones falsas",
+        "message": "[###] me está acusando falsamente de cosas que no he hecho. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Hostigamiento por parte de un grupo",
+        "message": "[###] y un grupo de personas me están hostigando en WhatsApp. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Manipulación emocional",
+        "message": "[###] está manipulando mis emociones a través de mensajes constantes. Necesito ayuda."
+    },
+    {
+        "subject": "Acoso por parte de ex pareja",
+        "message": "[###], mi ex pareja, me está acosando a través de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Imágenes no solicitadas",
+        "message": "[###] me ha enviado imágenes no solicitadas y perturbadoras. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Mensajes racistas recibidos",
+        "message": "[###] me ha enviado mensajes racistas y ofensivos. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Suplantación en redes sociales",
+        "message": "[###] está suplantando mi identidad en otras redes sociales. Necesito que se investigue esta cuenta."
+    },
+        {
+        "subject": "Acoso a menores",
+        "message": "[###] está acosando a un menor en la plataforma. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Difusión de contenido pornográfico",
+        "message": "[###] ha compartido contenido pornográfico en grupos. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Mensajes abusivos",
+        "message": "[###] me ha enviado mensajes abusivos y hostiles. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Fraude de inversión",
+        "message": "[###] me está intentando engañar con un fraude de inversión a través de WhatsApp. Necesito su ayuda."
+    },
+    {
+        "subject": "Ciberacoso escolar",
+        "message": "[###] está participando en ciberacoso escolar en grupos de clase. Solicito su eliminación."
+    },
+    {
+        "subject": "Acoso por parte de desconocidos",
+        "message": "[###] me está acosando y no lo conozco. Necesito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Extorsión",
+        "message": "[###] me está extorsionando a través de mensajes. Solicito ayuda inmediata."
+    },
+    {
+        "subject": "Uso de lenguaje discriminatorio",
+        "message": "[###] ha usado lenguaje discriminatorio en los chats. Solicito su bloqueo."
+    },
+    {
+        "subject": "Mensajes de odio",
+        "message": "[###] me ha enviado mensajes llenos de odio y agresión. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Solicito eliminación de cuenta",
+        "message": "[###] está usando la plataforma para acosarme. Solicito la eliminación de su cuenta."
+    },
+    {
+        "subject": "Contenidos que incitan a la violencia",
+        "message": "[###] está compartiendo contenidos que incitan a la violencia. Solicito su bloqueo."
+    },
+    {
+        "subject": "Acoso a través de llamadas",
+        "message": "[###] me está acosando a través de llamadas constantes. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Suplantación en grupos",
+        "message": "[###] está suplantando mi identidad en grupos de WhatsApp. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Mensajes obscenos",
+        "message": "[###] me ha enviado mensajes obscenos y perturbadores. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Hostigamiento por parte de compañeros",
+        "message": "[###] me está hostigando en un grupo de compañeros. Solicito su eliminación."
+    },
+    {
+        "subject": "Difusión de contenido falso",
+        "message": "[###] está difundiendo contenido falso sobre mí. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Acoso persistente en línea",
+        "message": "[###] me está acosando persistentemente en línea. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Uso indebido de información personal",
+        "message": "[###] ha usado mi información personal sin mi consentimiento. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Mensajes amenazantes hacia otros",
+        "message": "[###] ha amenazado a otras personas a través de WhatsApp. Solicito que se investigue."
+    },
+    {
+        "subject": "Comportamiento peligroso en línea",
+        "message": "[###] está mostrando un comportamiento peligroso en línea. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso psicológico",
+        "message": "[###] me está acosando psicológicamente a través de mensajes constantes. Solicito ayuda."
+    },
+    {
+        "subject": "Solicito cierre por acoso sistemático",
+        "message": "[###] ha estado acosándome sistemáticamente. Solicito el cierre inmediato de su cuenta."
+    },
+    {
+        "subject": "Incitación a la violencia en grupos",
+        "message": "[###] está incitando a la violencia en un grupo de WhatsApp. Solicito su bloqueo inmediato."
+    },
+    {   "subject": "Comportamiento manipulador",
+        "message": "[###] está mostrando un comportamiento manipulador hacia mí en los chats. Necesito ayuda."
+    },
+    {
+        "subject": "Solicito asistencia por amenazas",
+        "message": "[###] me ha amenazado repetidamente y necesito asistencia urgente."
+    },
+    {
+        "subject": "Difusión de contenido perjudicial",
+        "message": "[###] está difundiendo contenido perjudicial sobre mí. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Acoso por parte de un ex amigo",
+        "message": "[###], un ex amigo, me está acosando a través de WhatsApp. Necesito su bloqueo inmediato."
+    },
+    {
+        "subject": "Mensajes burlones y sarcásticos",
+        "message": "[###] me envía mensajes burlones y sarcásticos constantemente. Solicito su eliminación."
+    },
+    {
+        "subject": "Suplantación en grupos familiares",
+        "message": "[###] está suplantando mi identidad en grupos familiares. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso por parte de una comunidad en línea",
+        "message": "[###] y una comunidad en línea están acosándome. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Fraude relacionado con concursos",
+        "message": "[###] me intenta engañar con un fraude relacionado con concursos a través de WhatsApp. Necesito ayuda."
+    },
+    {
+        "subject": "Mensajes despectivos sobre mi cultura",
+        "message": "[###] me ha enviado mensajes despectivos sobre mi cultura. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Amenazas de violencia física",
+        "message": "[###] me ha amenazado con violencia física a través de mensajes. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Difamación en grupos públicos",
+        "message": "[###] me está difamando en grupos públicos de WhatsApp. Solicito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Acoso por parte de un grupo",
+        "message": "[###] me está acosando un grupo de personas en la plataforma. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Mensajes con contenido violento",
+        "message": "[###] ha enviado mensajes con contenido violento en un grupo. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Manipulación emocional",
+        "message": "[###] está manipulando mis emociones a través de mensajes. Solicito ayuda para bloquearlo."
+    },
+    {
+        "subject": "Difusión de rumores falsos",
+        "message": "[###] está difundiendo rumores falsos sobre mí. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Acoso por parte de un compañero de trabajo",
+        "message": "[###], un compañero de trabajo, me está acosando a través de WhatsApp. Necesito su intervención."
+    },
+    {
+        "subject": "Uso de imágenes no consentidas",
+        "message": "[###] ha compartido imágenes mías sin mi consentimiento. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Comportamiento agresivo en chats",
+        "message": "[###] muestra un comportamiento agresivo en los chats. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Suplantación de identidad en redes sociales",
+        "message": "[###] se está haciendo pasar por mí en redes sociales. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso por parte de un extraño",
+        "message": "[###] es un extraño que me está acosando en la plataforma. Necesito su ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes sexistas",
+        "message": "[###] me ha enviado mensajes sexistas y ofensivos. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Hostigamiento constante",
+        "message": "[###] me está hostigando constantemente a través de mensajes. Necesito que se investigue."
+    },
+    {
+        "subject": "Contenidos que incitan al odio",
+        "message": "[###] está compartiendo contenidos que incitan al odio en grupos. Solicito su eliminación."
+    },
+    {
+        "subject": "Acoso a través de memes ofensivos",
+        "message": "[###] me envía memes ofensivos y burlones. Solicito que se tomen medidas urgentes."
+    },
+    {
+        "subject": "Amenazas sobre mi seguridad",
+        "message": "[###] me ha amenazado sobre mi seguridad personal. Necesito asistencia inmediata."
+    },
+    {
+        "subject": "Difusión de información personal sin consentimiento",
+        "message": "[###] ha divulgado mi información personal sin mi consentimiento. Solicito su bloqueo."
+    },
+    {
+        "subject": "Comportamiento hostil en grupos",
+        "message": "[###] tiene un comportamiento hostil hacia mí en grupos de WhatsApp. Necesito ayuda."
+    },
+    {
+        "subject": "Mensajes intimidatorios",
+        "message": "[###] me ha enviado mensajes intimidatorios. Solicito que se investigue esta situación."
+    },
+    {
+        "subject": "Ciberacoso por parte de ex pareja",
+        "message": "[###], mi ex pareja, me está ciberacosando a través de la plataforma. Necesito ayuda urgente."
+    },
+    {
+        "subject": "Acoso a través de comentarios despectivos",
+        "message": "[###] ha hecho comentarios despectivos hacia mí en el grupo. Solicito su eliminación."
+    },
+    {
+        "subject": "Incitación al suicidio",
+        "message": "[###] ha hecho comentarios que incitan al suicidio en el grupo. Necesito intervención inmediata."
+    },
+    {
+        "subject": "Solicito eliminación de cuenta por acoso",
+        "message": "[###] me está acosando y solicito la eliminación de su cuenta de inmediato."
+    },
+    {
+        "subject": "Comportamiento manipulador en chats",
+        "message": "[###] tiene un comportamiento manipulador hacia mí en los chats. Necesito ayuda para bloquearlo."
+    },
+    {
+        "subject": "Mensajes con contenido racista",
+        "message": "[###] ha enviado mensajes racistas en el grupo. Solicito su bloqueo inmediato."
+    },
+    {
+        "subject": "Difusión de contenido perjudicial hacia menores",
+        "message": "[###] está compartiendo contenido perjudicial hacia menores en la plataforma. Solicito acción inmediata."
+    },
+    {
+        "subject": "Acoso por parte de un usuario anónimo",
+        "message": "[###] estoy siendo acosado por un usuario anónimo en la plataforma. Solicito ayuda para identificarlo."
+    },
+    {
+        "subject": "Comentarios despectivos sobre mi apariencia",
+        "message": "[###] ha hecho comentarios despectivos sobre mi apariencia en el grupo. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Publicaciones que incitan al odio racial",
+        "message": "[###] está publicando contenido que incita al odio racial. Necesito que se elimine inmediatamente."
+    },
+    {
+        "subject": "Acoso por parte de un desconocido en mensajes directos",
+        "message": "[###] un desconocido me está acosando a través de mensajes directos. Solicito su bloqueo."
+    },
+    {
+        "subject": "Mensajes de contenido sexual no solicitado",
+        "message": "[###] me ha enviado mensajes de contenido sexual no solicitado. Solicito su intervención."
+    },
+    {
+        "subject": "Comportamiento amenazante en grupos",
+        "message": "[###] muestra un comportamiento amenazante hacia mí en los grupos. Necesito ayuda para manejar la situación."
+    },
+    {
+        "subject": "Difusión de videos íntimos sin consentimiento",
+        "message": "[###] ha compartido un video íntimo mío sin mi consentimiento. Solicito acción inmediata."
+    },
+    {
+        "subject": "Acoso psicológico a través de redes sociales",
+        "message": "[###] me está acosando psicológicamente a través de redes sociales. Necesito asistencia urgente."
+    },
+    {
+        "subject": "Uso indebido de mi imagen",
+        "message": "[###] está utilizando mi imagen sin mi permiso en publicaciones. Solicito su eliminación."
+    },
+    {
+        "subject": "Comentarios ofensivos sobre mis creencias",
+        "message": "[###] ha hecho comentarios ofensivos sobre mis creencias en el grupo. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso a menores en la plataforma",
+        "message": "[###] está acosando a menores en la plataforma. Necesito que se investigue esta situación."
+    },
+    {
+        "subject": "Suplantación de identidad en chats",
+        "message": "[###] se está haciendo pasar por mí en chats. Solicito que se tomen acciones inmediatas."
+    },
+    {
+        "subject": "Mensajes de odio hacia mi comunidad",
+        "message": "[###] ha enviado mensajes de odio hacia mi comunidad. Solicito su eliminación inmediata."
+    },
+    {
+        "subject": "Hostigamiento por parte de un grupo de usuarios",
+        "message": "[###] estoy siendo hostigado por un grupo de usuarios en la plataforma. Solicito intervención."
+    },
+    {
+        "subject": "Acoso a través de publicaciones en foros",
+        "message": "[###] me está acosando a través de publicaciones en foros. Necesito que se tomen medidas."
+    },
+    {
+        "subject": "Mensajes amenazantes sobre mi familia",
+        "message": "[###] me ha enviado mensajes amenazantes sobre mi familia. Solicito ayuda inmediata."
+    },
+    {
+        "subject": "Comportamiento agresivo en comentarios públicos",
+        "message": "[###] muestra un comportamiento agresivo en los comentarios públicos. Necesito asistencia."
+    },
+    {
+        "subject": "Difusión de información falsa sobre mí",
+        "message": "[###] está difundiendo información falsa sobre mí en las redes. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso a través de llamadas telefónicas",
+        "message": "[###] me está acosando a través de llamadas telefónicas. Necesito su intervención urgente."
+    },
+    {
+        "subject": "Comentarios degradantes sobre mi trabajo",
+        "message": "[###] ha hecho comentarios degradantes sobre mi trabajo en el grupo. Solicito que se eliminen."
+    },
+    {
+        "subject": "Acoso por parte de un ex compañero de trabajo",
+        "message": "[###], un ex compañero de trabajo, me está acosando en línea. Necesito ayuda para manejar la situación."
+    },
+        {
+        "subject": "Acoso por parte de un usuario en el chat",
+        "message": "[###] estoy siendo acosado por un usuario en el chat. Solicito que se revise esta situación."
+    },
+    {
+        "subject": "Comentarios despectivos sobre mi orientación sexual",
+        "message": "[###] ha hecho comentarios despectivos sobre mi orientación sexual en la plataforma. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Publicaciones que promueven la violencia",
+        "message": "[###] está publicando contenido que promueve la violencia. Necesito que se elimine inmediatamente."
+    },
+    {
+        "subject": "Acoso a través de publicaciones en redes sociales",
+        "message": "[###] me está acosando a través de publicaciones en redes sociales. Solicito asistencia para manejar esto."
+    },
+    {
+        "subject": "Mensajes de contenido ofensivo en grupos",
+        "message": "[###] ha enviado mensajes de contenido ofensivo en los grupos. Solicito su eliminación."
+    },
+    {
+        "subject": "Comportamiento abusivo en el foro",
+        "message": "[###] muestra un comportamiento abusivo en el foro. Necesito ayuda para abordar esta situación."
+    },
+    {
+        "subject": "Difusión de rumores maliciosos sobre mí",
+        "message": "[###] está difundiendo rumores maliciosos sobre mí en la plataforma. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso a través de mensajes de voz",
+        "message": "[###] me está acosando a través de mensajes de voz. Necesito su intervención urgente."
+    },
+    {
+        "subject": "Uso indebido de mis datos personales",
+        "message": "[###] está utilizando mis datos personales sin mi consentimiento. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Comentarios hostiles hacia mi cultura",
+        "message": "[###] ha hecho comentarios hostiles hacia mi cultura en el grupo. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso a través de memes ofensivos",
+        "message": "[###] ha compartido memes ofensivos sobre mí. Solicito su eliminación inmediata."
+    },
+    {
+        "subject": "Mensajes amenazantes en redes sociales",
+        "message": "[###] me ha enviado mensajes amenazantes en redes sociales. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Comportamiento insultante en los comentarios",
+        "message": "[###] muestra un comportamiento insultante en los comentarios. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Suplantación de identidad en redes sociales",
+        "message": "[###] se está haciendo pasar por mí en redes sociales. Solicito que se tomen acciones inmediatas."
+    },
+    {
+        "subject": "Acoso a través de publicaciones anónimas",
+        "message": "[###] estoy siendo acosado a través de publicaciones anónimas. Necesito su intervención."
+    },
+    {
+        "subject": "Comentarios agresivos sobre mi familia",
+        "message": "[###] ha hecho comentarios agresivos sobre mi familia en la plataforma. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Difusión de imágenes íntimas sin consentimiento",
+        "message": "[###] ha compartido imágenes íntimas mías sin mi consentimiento. Solicito acción inmediata."
+    },
+    {
+        "subject": "Acoso por parte de un grupo organizado",
+        "message": "[###] estoy siendo acosado por un grupo organizado en la plataforma. Necesito asistencia urgente."
+    },
+    {
+        "subject": "Mensajes burlones sobre mis habilidades",
+        "message": "[###] ha enviado mensajes burlones sobre mis habilidades en el grupo. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Hostigamiento por parte de un usuario recurrente",
+        "message": "[###] estoy siendo hostigado por un usuario recurrente en la plataforma. Necesito ayuda para manejar esto."
+    },
+    {
+        "subject": "Mensajes no solicitados de contenido sexual",
+        "message": "[###] he recibido mensajes no solicitados de contenido sexual por parte de un contacto. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso por parte de un contacto bloqueado",
+        "message": "[###] a pesar de haber bloqueado a un contacto, sigo recibiendo mensajes a través de grupos. Necesito ayuda para resolver esto."
+    },
+    {
+        "subject": "Difusión de información personal sin consentimiento",
+        "message": "[###] alguien está compartiendo mi información personal en grupos sin mi consentimiento. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Mensajes amenazantes de un número desconocido",
+        "message": "[###] he recibido mensajes amenazantes de un número desconocido. Necesito asistencia inmediata."
+    },
+    {
+        "subject": "Suplantación de identidad en WhatsApp",
+        "message": "[###] alguien se está haciendo pasar por mí en WhatsApp. Solicito que se tomen medidas para detener esto."
+    },
+    {
+        "subject": "Spam constante en grupos",
+        "message": "[###] hay un usuario que está enviando spam constantemente en los grupos. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Mensajes ofensivos sobre mi apariencia",
+        "message": "[###] he recibido mensajes ofensivos sobre mi apariencia. Solicito que se tomen medidas contra el remitente."
+    },
+    {
+        "subject": "Acoso a través de llamadas no deseadas",
+        "message": "[###] estoy recibiendo llamadas no deseadas y acosadoras de un número desconocido. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Difusión de rumores maliciosos en grupos",
+        "message": "[###] se están difundiendo rumores maliciosos sobre mí en grupos de WhatsApp. Solicito intervención."
+    },
+    {
+        "subject": "Contenido violento compartido en grupos",
+        "message": "[###] hay contenido violento siendo compartido en grupos. Necesito que se elimine este contenido."
+    },
+    {
+        "subject": "Mensajes racistas en grupos",
+        "message": "[###] he visto mensajes racistas en un grupo de WhatsApp. Solicito que se tomen medidas contra el autor."
+    },
+    {
+        "subject": "Acoso por parte de un ex pareja",
+        "message": "[###] mi ex pareja me está acosando a través de WhatsApp. Necesito ayuda para detener esto."
+    },
+    {
+        "subject": "Reenvío de contenido sensible sin consentimiento",
+        "message": "[###] alguien ha reenviado contenido sensible mío sin mi consentimiento. Solicito acción inmediata."
+    },
+    {
+        "subject": "Uso indebido de mi foto de perfil",
+        "message": "[###] alguien está usando mi foto de perfil sin mi permiso. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Mensajes burlones sobre mis intereses",
+        "message": "[###] estoy recibiendo mensajes burlones sobre mis intereses en un grupo. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso mediante mensajes de voz",
+        "message": "[###] he recibido mensajes de voz acosadores de un contacto. Necesito asistencia para manejar esta situación."
+    },
+    {
+        "subject": "Difusión de contenido íntimo sin consentimiento",
+        "message": "[###] alguien ha compartido contenido íntimo mío sin mi consentimiento en un grupo. Solicito acción inmediata."
+    },
+    {
+        "subject": "Comportamiento abusivo en grupos familiares",
+        "message": "[###] hay comportamiento abusivo hacia mí en el grupo familiar. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Denuncia de un número por acoso continuo",
+        "message": "[###] estoy siendo acosado continuamente por el número [número]. Solicito su intervención."
+    },
+    {
+        "subject": "Mensajes no solicitados de contenido sexual",
+        "message": "[###] he recibido mensajes no solicitados de contenido sexual por parte de un contacto. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso por parte de un contacto bloqueado",
+        "message": "[###] a pesar de haber bloqueado a un contacto, sigo recibiendo mensajes a través de grupos. Necesito ayuda para resolver esto."
+    },
+    {
+        "subject": "Difusión de información personal sin consentimiento",
+        "message": "[###] alguien está compartiendo mi información personal en grupos sin mi consentimiento. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Mensajes amenazantes de un número desconocido",
+        "message": "[###] he recibido mensajes amenazantes de un número desconocido. Necesito asistencia inmediata."
+    },
+    {
+        "subject": "Suplantación de identidad en WhatsApp",
+        "message": "[###] alguien se está haciendo pasar por mí en WhatsApp. Solicito que se tomen medidas para detener esto."
+    },
+    {
+        "subject": "Spam constante en grupos",
+        "message": "[###] hay un usuario que está enviando spam constantemente en los grupos. Necesito que se tomen acciones."
+    },
+    {
+        "subject": "Mensajes ofensivos sobre mi apariencia",
+        "message": "[###] he recibido mensajes ofensivos sobre mi apariencia. Solicito que se tomen medidas contra el remitente."
+    },
+    {
+        "subject": "Acoso a través de llamadas no deseadas",
+        "message": "[###] estoy recibiendo llamadas no deseadas y acosadoras de un número desconocido. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Difusión de rumores maliciosos en grupos",
+        "message": "[###] se están difundiendo rumores maliciosos sobre mí en grupos de WhatsApp. Solicito intervención."
+    },
+    {
+        "subject": "Contenido violento compartido en grupos",
+        "message": "[###] hay contenido violento siendo compartido en grupos. Necesito que se elimine este contenido."
+    },
+    {
+        "subject": "Mensajes racistas en grupos",
+        "message": "[###] he visto mensajes racistas en un grupo de WhatsApp. Solicito que se tomen medidas contra el autor."
+    },
+    {
+        "subject": "Acoso por parte de un ex pareja",
+        "message": "[###] mi ex pareja me está acosando a través de WhatsApp. Necesito ayuda para detener esto."
+    },
+    {
+        "subject": "Reenvío de contenido sensible sin consentimiento",
+        "message": "[###] alguien ha reenviado contenido sensible mío sin mi consentimiento. Solicito acción inmediata."
+    },
+    {
+        "subject": "Uso indebido de mi foto de perfil",
+        "message": "[###] alguien está usando mi foto de perfil sin mi permiso. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Mensajes burlones sobre mis intereses",
+        "message": "[###] estoy recibiendo mensajes burlones sobre mis intereses en un grupo. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso mediante mensajes de voz",
+        "message": "[###] he recibido mensajes de voz acosadores de un contacto. Necesito asistencia para manejar esta situación."
+    },
+    {
+        "subject": "Difusión de contenido íntimo sin consentimiento",
+        "message": "[###] alguien ha compartido contenido íntimo mío sin mi consentimiento en un grupo. Solicito acción inmediata."
+    },
+    {
+        "subject": "Comportamiento abusivo en grupos familiares",
+        "message": "[###] hay comportamiento abusivo hacia mí en el grupo familiar. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Denuncia de un número por acoso continuo",
+        "message": "[###] estoy siendo acosado continuamente por el número [número]. Solicito su intervención."
+    },
+    {
+        "subject": "Mensajes intimidatorios sobre mis creencias",
+        "message": "[###] he recibido mensajes intimidatorios relacionados con mis creencias personales. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso cibernético por parte de un grupo",
+        "message": "[###] estoy siendo víctima de acoso cibernético por parte de un grupo en WhatsApp. Necesito ayuda urgentemente."
+    },
+    {
+        "subject": "Publicación de fotos mías sin permiso",
+        "message": "[###] han publicado fotos mías sin mi permiso en un grupo. Solicito acción inmediata."
+    },
+    {
+        "subject": "Mensajes despectivos sobre mi orientación sexual",
+        "message": "[###] he recibido mensajes despectivos sobre mi orientación sexual. Solicito intervención."
+    },
+    {
+        "subject": "Acoso mediante memes ofensivos",
+        "message": "[###] están enviando memes ofensivos dirigidos a mí en un grupo. Necesito ayuda para detener esto."
+    },
+    {
+        "subject": "Difusión de información falsa sobre mí",
+        "message": "[###] hay información falsa circulando sobre mí en grupos. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso a través de mensajes anónimos",
+        "message": "[###] estoy recibiendo mensajes anónimos acosadores. Necesito asistencia para resolver esto."
+    },
+    {
+        "subject": "Comentarios sexistas en grupos",
+        "message": "[###] he visto comentarios sexistas en un grupo de WhatsApp. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Amenazas veladas en conversaciones grupales",
+        "message": "[###] he recibido amenazas veladas en conversaciones grupales. Necesito ayuda para manejar esto."
+    },
+    {
+        "subject": "Repetidos intentos de contacto no deseado",
+        "message": "[###] estoy recibiendo repetidos intentos de contacto no deseado por parte de un número desconocido."
+    },
+    {
+        "subject": "Mensajes discriminatorios sobre mi nacionalidad",
+        "message": "[###] estoy recibiendo mensajes discriminatorios relacionados con mi nacionalidad. Solicito intervención."
+    },
+    {
+        "subject": "Uso inapropiado de stickers ofensivos",
+        "message": "[###] hay un usuario que está usando stickers ofensivos hacia mí en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Acoso emocional a través de mensajes constantes",
+        "message": "[###] estoy sufriendo acoso emocional debido a mensajes constantes de un contacto. Necesito ayuda."
+    },
+    {
+        "subject": "Difusión ilegal de contenido privado",
+        "message": "[###] alguien ha compartido contenido privado mío sin autorización. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Mensajes provocativos sobre mis elecciones personales",
+        "message": "[###] estoy recibiendo mensajes provocativos sobre mis elecciones personales. Solicito acciones."
+    },
+    {
+        "subject": "Acoso por parte de un compañero de trabajo",
+        "message": "[###] un compañero de trabajo me está acosando a través de WhatsApp. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Comentarios hirientes sobre mis habilidades",
+        "message": "[###] he recibido comentarios hirientes sobre mis habilidades en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Mensajes de odio hacia mi grupo étnico",
+        "message": "[###] he recibido mensajes de odio dirigidos a mi grupo étnico en un grupo de WhatsApp. Solicito intervención."
+    },
+    {
+        "subject": "Acoso cibernético por parte de un ex amigo",
+        "message": "[###] un ex amigo me está acosando cibernéticamente a través de WhatsApp. Necesito ayuda para detener esto."
+    },
+    {
+        "subject": "Uso indebido de mis datos personales",
+        "message": "[###] alguien está usando mis datos personales sin mi consentimiento en conversaciones grupales. Solicito acción."
+    },
+    {
+        "subject": "Mensajes intimidatorios sobre mi trabajo",
+        "message": "[###] estoy recibiendo mensajes intimidatorios relacionados con mi trabajo. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso mediante llamadas en grupo",
+        "message": "[###] hay un contacto que está acosando a través de llamadas en grupo. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Reenvío de contenido sensible en grupos",
+        "message": "[###] alguien ha reenviado contenido sensible mío en grupos sin mi consentimiento. Solicito acción."
+    },
+    {
+        "subject": "Comentarios despectivos sobre mis creencias religiosas",
+        "message": "[###] he recibido comentarios despectivos sobre mis creencias religiosas en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Acoso por parte de un desconocido en grupos",
+        "message": "[###] estoy siendo acosado por un desconocido en varios grupos de WhatsApp. Necesito asistencia."
+    },
+    {
+        "subject": "Difusión de rumores dañinos sobre mi vida personal",
+        "message": "[###] hay rumores dañinos sobre mi vida personal circulando en grupos. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Mensajes repetidos de un número bloqueado",
+        "message": "[###] a pesar de haber bloqueado un número, sigo recibiendo mensajes. Necesito ayuda."
+    },
+    {
+        "subject": "Acoso por parte de un compañero de clase",
+        "message": "[###] un compañero de clase me está acosando a través de WhatsApp. Solicito asistencia para resolver esto."
+    },
+    {
+        "subject": "Comentarios burlones sobre mis elecciones profesionales",
+        "message": "[###] he recibido comentarios burlones sobre mis elecciones profesionales en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Amenazas directas a través de mensajes",
+        "message": "[###] he recibido amenazas directas a través de mensajes de un contacto. Necesito ayuda inmediata."
+    },
+    {
+        "subject": "Uso inapropiado de memes ofensivos",
+        "message": "[###] hay un usuario que está usando memes ofensivos hacia mí en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Acoso emocional por parte de un familiar",
+        "message": "[###] estoy sufriendo acoso emocional por parte de un familiar a través de WhatsApp. Necesito ayuda."
+    },
+    {
+        "subject": "Difusión ilegal de fotos personales",
+        "message": "[###] alguien ha compartido fotos personales mías sin mi consentimiento. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Mensajes provocativos sobre mi vida privada",
+        "message": "[###] estoy recibiendo mensajes provocativos sobre mi vida privada. Solicito acciones."
+    },
+    {
+        "subject": "Acoso por parte de un conocido en redes sociales",
+        "message": "[###] un conocido me está acosando a través de WhatsApp y redes sociales. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Comentarios hirientes sobre mis decisiones personales",
+        "message": "[###] he recibido comentarios hirientes sobre mis decisiones personales en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Mensajes amenazantes sobre mi seguridad",
+        "message": "[###] he recibido mensajes amenazantes relacionados con mi seguridad personal. Necesito asistencia inmediata."
+    },
+    {
+        "subject": "Acoso mediante mensajes anónimos en grupos",
+        "message": "[###] estoy recibiendo mensajes anónimos acosadores en grupos. Necesito ayuda para resolver esto."
+    },
+    {
+        "subject": "Difusión de contenido íntimo sin consentimiento",
+        "message": "[###] alguien ha compartido contenido íntimo mío sin mi consentimiento en un grupo. Solicito acción inmediata."
+    },
+    {
+        "subject": "Mensajes discriminatorios sobre mi orientación sexual",
+        "message": "[###] estoy recibiendo mensajes discriminatorios relacionados con mi orientación sexual. Solicito intervención."
+    },
+    {
+        "subject": "Acoso emocional a través de mensajes constantes",
+        "message": "[###] estoy sufriendo acoso emocional debido a mensajes constantes de un contacto. Necesito ayuda."
+    },
+    {
+        "subject": "Reenvío de información personal sin consentimiento",
+        "message": "[###] alguien ha reenviado información personal mía sin mi consentimiento. Solicito acción inmediata."
+    },
+    {
+        "subject": "Comentarios sexistas en grupos familiares",
+        "message": "[###] he visto comentarios sexistas en el grupo familiar. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso por parte de un ex compañero de trabajo",
+        "message": "[###] un ex compañero de trabajo me está acosando a través de WhatsApp. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Mensajes ofensivos sobre mi cultura",
+        "message": "[###] he recibido mensajes ofensivos sobre mi cultura en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Acoso mediante llamadas no deseadas",
+        "message": "[###] estoy recibiendo llamadas no deseadas y acosadoras de un número desconocido. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Difusión de rumores maliciosos en grupos",
+        "message": "[###] se están difundiendo rumores maliciosos sobre mí en grupos de WhatsApp. Solicito intervención."
+    },
+    {
+        "subject": "Comentarios hirientes sobre mis habilidades profesionales",
+        "message": "[###] he recibido comentarios hirientes sobre mis habilidades profesionales en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Acoso cibernético por parte de un grupo",
+        "message": "[###] estoy siendo víctima de acoso cibernético por parte de un grupo en WhatsApp. Necesito ayuda urgentemente."
+    },
+    {
+        "subject": "Uso inapropiado de stickers ofensivos",
+        "message": "[###] hay un usuario que está usando stickers ofensivos hacia mí en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Mensajes intimidatorios relacionados con mi familia",
+        "message": "[###] he recibido mensajes intimidatorios relacionados con mi familia. Necesito ayuda para manejar esto."
+    },
+    {
+        "subject": "Difusión ilegal de contenido privado en grupos",
+        "message": "[###] alguien ha compartido contenido privado mío sin autorización en un grupo. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Mensajes provocativos sobre mis elecciones personales",
+        "message": "[###] estoy recibiendo mensajes provocativos sobre mis elecciones personales. Solicito acciones."
+    },
+    {
+        "subject": "Acoso por parte de un grupo en línea",
+        "message": "[###] un grupo en línea me está acosando a través de mensajes constantes. Necesito ayuda."
+    },
+    {
+        "subject": "Reenvío de mis mensajes privados sin mi permiso",
+        "message": "[###] alguien ha reenviado mis mensajes privados sin mi permiso. Solicito intervención."
+    },
+    {
+        "subject": "Comentarios despectivos sobre mi apariencia",
+        "message": "[###] he recibido comentarios despectivos sobre mi apariencia en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Amenazas de violencia a través de WhatsApp",
+        "message": "[###] he recibido amenazas de violencia a través de WhatsApp. Necesito asistencia inmediata."
+    },
+    {
+        "subject": "Acoso por parte de un vecino",
+        "message": "[###] un vecino me está acosando a través de WhatsApp. Solicito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Difusión de información falsa sobre mí",
+        "message": "[###] se está difundiendo información falsa sobre mí en grupos de WhatsApp. Solicito intervención."
+    },
+    {
+        "subject": "Mensajes de odio hacia mi comunidad",
+        "message": "[###] he recibido mensajes de odio dirigidos a mi comunidad en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Acoso emocional por parte de un grupo de amigos",
+        "message": "[###] estoy sufriendo acoso emocional por parte de un grupo de amigos a través de WhatsApp. Necesito ayuda."
+    },
+    {
+        "subject": "Uso inapropiado de mis fotos en grupos",
+        "message": "[###] alguien ha usado mis fotos inapropiadamente en un grupo. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Mensajes burlones sobre mis creencias políticas",
+        "message": "[###] he recibido mensajes burlones sobre mis creencias políticas en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Acoso cibernético por parte de un desconocido",
+        "message": "[###] estoy siendo acosado cibernéticamente por un desconocido en WhatsApp. Necesito ayuda urgente."
+    },
+    {
+        "subject": "Comentarios hirientes sobre mis elecciones educativas",
+        "message": "[###] he recibido comentarios hirientes sobre mis elecciones educativas en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Amenazas relacionadas con mi trabajo",
+        "message": "[###] he recibido amenazas relacionadas con mi trabajo a través de WhatsApp. Necesito asistencia inmediata."
+    },
+    {
+        "subject": "Acoso mediante mensajes anónimos",
+        "message": "[###] estoy recibiendo mensajes anónimos acosadores. Necesito ayuda para resolver esto."
+    },
+    {
+        "subject": "Difusión ilegal de mis datos personales",
+        "message": "[###] alguien ha compartido mis datos personales sin mi consentimiento. Solicito acción inmediata."
+    },
+    {
+        "subject": "Mensajes discriminatorios relacionados con mi origen",
+        "message": "[###] estoy recibiendo mensajes discriminatorios relacionados con mi origen. Solicito intervención."
+    },
+    {
+        "subject": "Acoso emocional por parte de un ex pareja",
+        "message": "[###] estoy sufriendo acoso emocional por parte de una ex pareja a través de WhatsApp. Necesito ayuda."
+    },
+    {
+        "subject": "Reenvío constante de contenido ofensivo",
+        "message": "[###] alguien está reenviando constantemente contenido ofensivo hacia mí en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Comentarios sexistas sobre mi trabajo",
+        "message": "[###] he visto comentarios sexistas sobre mi trabajo en un grupo. Solicito que se tomen acciones."
+    },
+    {
+        "subject": "Acoso por parte de un grupo escolar",
+        "message": "[###] estoy siendo acosado por un grupo escolar a través de WhatsApp. Necesito ayuda para manejar esta situación."
+    },
+    {
+        "subject": "Uso indebido de mi imagen en memes",
+        "message": "[###] alguien ha utilizado mi imagen en memes sin mi consentimiento. Solicito intervención."
+    },
+    {
+        "subject": "Mensajes de acoso sexual",
+        "message": "[###] he recibido mensajes de acoso sexual a través de WhatsApp. Necesito ayuda urgente."
+    },
+    {
+        "subject": "Difamación en grupos de WhatsApp",
+        "message": "[###] estoy siendo difamado en grupos de WhatsApp. Solicito acción inmediata."
+    },
+    {
+        "subject": "Mensajes amenazantes sobre mi seguridad personal",
+        "message": "[###] he recibido mensajes amenazantes que afectan mi seguridad personal. Necesito asistencia."
+    },
+    {
+        "subject": "Comentarios racistas en un grupo",
+        "message": "[###] he visto comentarios racistas en un grupo de WhatsApp. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso por parte de un grupo de trabajo",
+        "message": "[###] estoy siendo acosado por un grupo de trabajo a través de WhatsApp. Necesito ayuda para resolver esto."
+    },
+    {
+        "subject": "Reenvío de contenido íntimo sin permiso",
+        "message": "[###] alguien ha reenviado contenido íntimo mío sin mi consentimiento. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Comentarios despectivos sobre mis habilidades profesionales",
+        "message": "[###] he recibido comentarios despectivos sobre mis habilidades profesionales en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Acoso por parte de un desconocido en grupos",
+        "message": "[###] estoy siendo acosado por un desconocido en grupos de WhatsApp. Necesito ayuda urgente."
+    },
+    {
+        "subject": "Mensajes burlones sobre mis creencias religiosas",
+        "message": "[###] he recibido mensajes burlones sobre mis creencias religiosas en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Acoso emocional a través de mensajes constantes",
+        "message": "[###] estoy sufriendo acoso emocional a través de mensajes constantes. Necesito asistencia."
+    },
+    {
+        "subject": "Difusión de rumores dañinos sobre mi vida personal",
+        "message": "[###] se están difundiendo rumores dañinos sobre mi vida personal en grupos. Solicito intervención."
+    },
+    {
+        "subject": "Comentarios hirientes sobre mis elecciones personales",
+        "message": "[###] he recibido comentarios hirientes sobre mis elecciones personales en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Acoso cibernético relacionado con mi orientación sexual",
+        "message": "[###] estoy siendo acosado cibernéticamente debido a mi orientación sexual. Necesito ayuda urgente."
+    },
+    {
+        "subject": "Uso indebido de mis datos personales en grupos",
+        "message": "[###] alguien ha utilizado mis datos personales indebidamente en un grupo. Solicito intervención."
+    },
+    {
+        "subject": "Mensajes discriminatorios sobre mi condición médica",
+        "message": "[###] he recibido mensajes discriminatorios sobre mi condición médica en un grupo. Solicito acción."
+    },
+    {
+        "subject": "Acoso por parte de un antiguo compañero de escuela",
+        "message": "[###] estoy siendo acosado por un antiguo compañero de escuela a través de WhatsApp. Necesito ayuda."
+    },
+    {
+        "subject": "Reenvío de mis mensajes sin consentimiento",
+        "message": "[###] alguien está reenviando mis mensajes sin mi consentimiento. Solicito intervención inmediata."
+    },
+    {
+        "subject": "Comentarios sexistas sobre mi apariencia",
+        "message": "[###] he visto comentarios sexistas sobre mi apariencia en un grupo. Solicito que se tomen medidas."
+    },
+    {
+        "subject": "Acoso por parte de un grupo familiar",
+        "message": "[###] estoy siendo acosado por un grupo familiar a través de WhatsApp. Necesito asistencia."
+    }
+]
