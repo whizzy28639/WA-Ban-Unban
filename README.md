@@ -1,10 +1,11 @@
 # BIG WHIZZY WA-Ban-Unban
 WhatsApp Ban And Unban By Big Whizzy 
 
-# band or unband whatsapp using termux or kali by python script
+#### band or unband whatsapp using termux or kali by python script
 
+```python
 apt install update && apt install upgrade
-
+```
 pkg install git
 
 pkg install openssl
